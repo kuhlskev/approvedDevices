@@ -1,0 +1,6 @@
+vendor: 
+  - cisco:
+    - CSR1000V
+    - ASAv
+  - Arista:
+    - vEOS
