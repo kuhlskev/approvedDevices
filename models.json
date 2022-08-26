@@ -1,14 +1,14 @@
 {
   "vendor": [
     {
-      "name": "cisco"
+      "name": "cisco",
       "models": [
         "CSR1000V",
         "ASAv"
       ]
     },
     {
-      "name":"Arista"
+      "name":"Arista",
       "models": [
         "vEOS"
       ]
