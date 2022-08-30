@@ -5,7 +5,7 @@
       "models": [
         {"name":"CSR1000V", "versions":["16.12.4a", "17.2.2"]},
         {"name": "ASAv", "versions":["9.8(2)", "9.9(3)"]},
-        {"name":"Nexus9000 9000v", "versions":["9.2(2)"]
+        {"name":"Nexus9000 9000v", "versions":["9.2(2)"]}
       ]
     },
     {
