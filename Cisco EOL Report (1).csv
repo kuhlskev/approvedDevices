@@ -1,0 +1,674 @@
+﻿Product ID,ERP Product Family,Product Description,Product Bulletin ID,Product Bulletin URL,End of Sale Date,End of Security/Vulnerability ,Last Date of Support
+7206VXR/NPE-G1,7200,7206VXR with NPE-G1 includes 3GigE/FE/E Ports and IP SW,EOL7772,http://www.cisco.com/en/US/prod/collateral/routers/ps341/end_of_life_c51-682450.html,2/27/12,N/A,2/28/17
+7206VXR/NPE-G2,7200,7206VXR with NPE-G2 includes 3GigE/FE/E Ports and IP SW,EOL7682,http://www.cisco.com/en/US/prod/collateral/routers/ps341/end_of_life_c51-681414.html,9/29/12,N/A,9/30/17
+7600-ES+20G3C,7600,"^7600 ES+ Line Card, 20xGE SFP with DFC 3C",EOL10361,http://www.cisco.com/c/en/us/products/collateral/routers/7600-series-routers/eos-eol-notice-c51-735517.html,7/24/16,N/A,7/31/21
+7600-ES+20G3CXL,7600,"^7600 ES+ Line Card, 20xGE SFP with DFC 3CXL",EOL10361,http://www.cisco.com/c/en/us/products/collateral/routers/7600-series-routers/eos-eol-notice-c51-735517.html,7/24/16,N/A,7/31/21
+7600-ES+40G3CXL,7600,"^7600 ES+ Line Card, 40xGE SFP with DFC 3CXL",EOL10361,http://www.cisco.com/c/en/us/products/collateral/routers/7600-series-routers/eos-eol-notice-c51-735517.html,7/24/16,N/A,7/31/21
+7600-ES+4TG3C,7600,"^7600 ES+ Line Card, 4x10GE XFP with DFC 3C",EOL7283,http://www.cisco.com/en/US/prod/collateral/vpndevc/ps5707/ps8418/ps6128/eol_c51-658768.html,11/29/11,11/28/14,11/30/16
+7600-ES+4TG3CXL,7600,"^7600 ES+ Line Card, 4x10GE XFP with DFC 3CXL",EOL7283,http://www.cisco.com/en/US/prod/collateral/vpndevc/ps5707/ps8418/ps6128/eol_c51-658768.html,11/29/11,11/28/14,11/30/16
+7600-SIP-200,7600,^Cisco 7600 Series SPA Interface Processor-200,EOL9917,http://www.cisco.com/c/en/us/products/collateral/routers/7600-series-routers/eos-eol-notice-c51-733146.html,4/20/15,N/A,4/30/20
+7600-SIP-400,7600,^Cisco 7600 Series SPA Interface Processor-400,EOL10361,http://www.cisco.com/c/en/us/products/collateral/routers/7600-series-routers/eos-eol-notice-c51-735517.html,7/24/16,N/A,7/31/21
+76-ES+XT-4TG3C,7600,"^7600 ES+XT, LAN/WAN PHY, OTN/G.709, 4x10GE, XFP, DFC3C",EOL10361,http://www.cisco.com/c/en/us/products/collateral/routers/7600-series-routers/eos-eol-notice-c51-735517.html,7/24/16,N/A,7/31/21
+8-10GBE-WL-XFP,CRS,^^Cisco CRS-1 Series 8x10GbE WAN/LAN XFP Interface Module,EOL9476,http://www.cisco.com/en/US/prod/collateral/routers/ps5763/eos-eol-notice-c51-730124.html,5/1/14,N/A,4/30/19
+A99-RP2-TR,ASR9KFM,ASR 9900 Route Processor 2 for Packet Transport,EOL14800,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/asr9000-phase-1-3rd-generation-tomahawk-eol.html,4/30/23,4/30/26,4/30/28
+A99-RSP-TR,ASR9000,ASR 9910 and ASR 9906 Route Processor for Packet Transport,EOL14645,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/asr-9000-rsp-880-eol.html,8/1/22,7/31/25,7/31/27
+A9K-24X10GE-TR,ASR9000,"^24-port 10GE, Packet Transport Optimized L",EOL12289,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/eos-eol-notice-c51-740753.html,5/11/19,5/10/22,5/31/24
+A9K-8X100GE-CM,ASR9000,ASR 9000 8-port 100GE Consumption Model Line Card,EOL14800,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/asr9000-phase-1-3rd-generation-tomahawk-eol.html,4/30/23,4/30/26,4/30/28
+A9K-AC-PEM-V3,ASR9000,ASR9K AC Power Enclosure Module Version 3,N/A,N/A,N/A,N/A,N/A
+A9K-MOD200-TR,ASR9000,"200G Modular Linecard, Packet Transport Optimized",EOL14800,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/asr9000-phase-1-3rd-generation-tomahawk-eol.html,4/30/23,4/30/26,4/30/28
+A9K-MOD80-TR,ASR9000,"^80G Modular Linecard, Packet Transport Optimized",EOL12289,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/eos-eol-notice-c51-740753.html,5/11/19,5/10/22,5/31/24
+A9K-MPA-20X1GE,ASR9000,ASR 9000 20-port 1GE Modular Port Adapter,N/A,N/A,N/A,N/A,N/A
+A9K-MPA-2X10GE,ASR9000,ASR 9000 2-port 10GE Modular Port Adapter,EOL13725,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/eos-eol-notice-c51-744626.html,6/17/21,6/16/24,6/30/26
+A9K-MPA-8X10GE,ASR9000,ASR 9000 8-port 10GE Modular Port Adapter,N/A,N/A,N/A,N/A,N/A
+A9K-RSP440-TR,ASR9000,^ASR9K Route Switch Processor with 440G/slot Fabric and 6GB,EOL10972,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/eos-eol-notice-c51-737819.html,8/30/17,8/29/20,8/31/22
+A9K-RSP5-TR,ASR9KFM,ASR 9000 Route Switch Processor 5 for Packet Transport,N/A,N/A,N/A,N/A,N/A
+A9K-RSP880-TR,ASR9KFM,ASR 9000 Route Switch Processor 880 for Packet Transport,EOL14645,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/asr-9000-rsp-880-eol.html,8/1/22,7/31/25,7/31/27
+ACE20-MOD-K9,ACEMOD,APPLICATION CONTROL ENGINE 20 MODULE,EOL7630,http://www.cisco.com/en/US/prod/collateral/modules/ps2706/end_of_life_c51-674430.html,3/1/12,N/A,2/28/17
+ACE30-MOD-K9,ACEMOD,^^Application Control Engine 30 Hardware,EOL9304,http://www.cisco.com/en/US/prod/collateral/modules/ps2706/eol_C51-728979.html,1/24/14,N/A,1/31/19
+ACEMOD-EXPN-DC,ACEMOD,^ACE MOD Expansion Daughter Card,EOL13084,,6/21/19,N/A,6/30/19
+AIM-VPN/EPII-PLUS,SEC,^DES/3DES/AES VPN Encryption/Compression,EOL6240,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_cisco_aim_vpn_ii_plus_modules.html,12/1/08,N/A,12/31/13
+AIM-VPN/HPII-PLUS,SEC,^DES/3DES/AES VPN Encryption/Compression,EOL6240,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_cisco_aim_vpn_ii_plus_modules.html,12/1/08,N/A,12/31/13
+AIM-VPN/SSL-3,SEC,^DES/3DES/AES/SSL VPN Encryption/Compression,EOL7469,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51-655336.html,12/2/11,N/A,11/30/16
+ASA5505,ASALOW,^ASA 5505 IDPROM PID,N/A,N/A,N/A,N/A,N/A
+ASA5505-K8,ASALOW,"^^ASA 5505 Appliance with SW, 10 Users, 8 ports, DES",EOL11376,https://www.cisco.com/c/en/us/products/collateral/security/asa-5505-adaptive-security-appliance/eos-eol-notice-c51-738642.html,8/25/17,8/24/20,8/31/22
+ASA5506,ASALOW,"ASA 5506-X with FirePOWER services, 8GE, AC, DES",EOL13763,https://www.cisco.com/c/en/us/products/collateral/security/asa-5500-series-next-generation-firewalls/eos-eol-notice-c51-744797.html,8/2/21,8/1/24,8/31/26
+ASA5506-K8,ASALOW,"ASA 5506-X with FirePOWER services, 8GE, AC, DES",EOL13763,https://www.cisco.com/c/en/us/products/collateral/security/asa-5500-series-next-generation-firewalls/eos-eol-notice-c51-744797.html,8/2/21,8/1/24,8/31/26
+ASA5506-SSD,ASALOW,ASA 5506-X SSD,EOL13763,https://www.cisco.com/c/en/us/products/collateral/security/asa-5500-series-next-generation-firewalls/eos-eol-notice-c51-744797.html,8/2/21,8/1/24,8/31/26
+ASA5508,ASAMID,"ASA 5508-X with FirePOWER services, 8GE, AC, DES",EOL13762,https://www.cisco.com/c/en/us/products/collateral/security/asa-5500-series-next-generation-firewalls/eos-eol-notice-c51-744798.html,8/2/21,8/1/24,8/31/26
+ASA5508-K8,ASAMID,"ASA 5508-X with FirePOWER services, 8GE, AC, DES",EOL13762,https://www.cisco.com/c/en/us/products/collateral/security/asa-5500-series-next-generation-firewalls/eos-eol-notice-c51-744798.html,8/2/21,8/1/24,8/31/26
+ASA5508-SSD,ASAMID,ASA 5508-X SSD,EOL13762,https://www.cisco.com/c/en/us/products/collateral/security/asa-5500-series-next-generation-firewalls/eos-eol-notice-c51-744798.html,8/2/21,8/1/24,8/31/26
+ASA5510,ASAMID,^ASA 5510 IDPROM PID,N/A,N/A,N/A,N/A,N/A
+ASA5510-K8,ASAMID,"^^^^ASA 5510 Appliance with SW, 5FE, DES",EOL9155,http://www.cisco.com/en/US/prod/collateral/vpndevc/ps6032/ps6094/ps6120/eol_C51-727283.html,9/16/13,N/A,9/30/18
+ASA5515,ASAMID,"^ASA 5515-X with SW, 6 GE Data, 1 GE Mgmt, AC",EOL14818,,9/4/20,9/4/23,9/30/25
+ASA5515-K8,ASAMID,"^^^ASA 5515-X with SW, 6GE Data, 1GE Mgmt, AC, DES",EOL11414,http://www.cisco.com/c/en/us/products/collateral/security/asa-5500-series-next-generation-firewalls/eos-eol-notice-c51-738644.html,8/25/17,8/24/20,8/31/22
+ASA5516,ASAMID,"ASA 5516-X with FirePOWER services, 8GE, AC, DES",EOL13762,https://www.cisco.com/c/en/us/products/collateral/security/asa-5500-series-next-generation-firewalls/eos-eol-notice-c51-744798.html,8/2/21,8/1/24,8/31/26
+ASA5516-SSD,ASAMID,ASA 5516-X SSD,EOL13762,https://www.cisco.com/c/en/us/products/collateral/security/asa-5500-series-next-generation-firewalls/eos-eol-notice-c51-744798.html,8/2/21,8/1/24,8/31/26
+ASA5520,ASAMID,^ASA 5520 IDPROM PID,N/A,N/A,N/A,N/A,N/A
+ASA5520-K8,ASAMID,"^^^^ASA 5520 Appliance with SW, HA, 4GE+1FE, DES",EOL9154,http://www.cisco.com/en/US/prod/collateral/vpndevc/ps6032/ps6094/ps6120/eol_C51-727279.html,9/16/13,N/A,9/30/18
+ASA5525,ASAMID,"^ASA 5525-X with SW, 8 GE Data, 1 GE Mgmt, AC",EOL13130,https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-743545.html,9/4/20,9/4/23,9/30/25
+ASA5525-K8,ASAMID,"^^ASA 5525-X with SW, 8GE Data, 1GE Mgmt, AC, DES",EOL13130,https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-743545.html,9/4/20,9/4/23,9/30/25
+ASA5540-K8,ASAMID,"^^^^ASA 5540 Appliance with SW, HA, 4GE+1FE, DES",EOL9150,http://www.cisco.com/en/US/prod/collateral/vpndevc/ps6032/ps6094/ps6120/eol_C51-727354.html,9/16/13,N/A,9/30/18
+ASA5545,ASAMID,"^ASA 5545-X  with SW, 8 GE Data, 1 GE Mgmt",EOL13130,https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-743545.html,9/4/20,9/4/23,9/30/25
+ASA5545-K8,ASAMID,"^^ASA 5545-X with SW, 8GE Data, 1GE Mgmt, AC, DES",EOL13130,https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-743545.html,9/4/20,9/4/23,9/30/25
+ASA5550,ASAMID,^ASA 5550 IDPROM PID,EOL13513,,7/10/20,7/10/20,7/31/20
+ASA5550-K8,ASAMID,"^^^^ASA 5550 Appliance, HA, 8GE+1FE, DES",EOL9166,http://www.cisco.com/en/US/prod/collateral/vpndevc/ps6032/ps6094/ps6120/eol_C51-727352.html,9/16/13,N/A,9/30/18
+ASA5555,ASAMID,"^ASA 5555-X with SW, 8 GE Data, 1 GE Mgmt",EOL13130,https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-743545.html,9/4/20,9/4/23,9/30/25
+ASA5555-K8,ASAMID,"^^ASA 5555-X with SW, 8GE Data, 1GE Mgmt, AC, DES",EOL13130,https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-743545.html,9/4/20,9/4/23,9/30/25
+ASA5585,ASAHIGH,^ASA 5585-X,EOL14818,,9/4/20,9/4/23,9/30/25
+ASA5585-NM-4-10GE,ASAHIGH,^ASA 5585-X Half Width Network Module with 4 SFP+ ports,EOL12148,https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-740021.html,6/1/18,5/31/21,5/31/23
+ASA5585-SSP-10,ASAHIGH,^ASA 5585-X Security Services Processor-10 with 8GE,EOL12148,https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-740021.html,6/1/18,5/31/21,5/31/23
+ASA5585-SSP-20,ASAHIGH,^ASA 5585-X Security Services Processor-20 with 8GE,EOL12148,https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-740021.html,6/1/18,5/31/21,5/31/23
+ASA5585-SSP-40,ASAHIGH,"^ASA 5585-X Security Services Processor-40 w 6GE,4 SFP+",EOL12148,https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-740021.html,6/1/18,5/31/21,5/31/23
+ASA5585-SSP-60,ASAHIGH,"^ASA 5585-X Security Services Processor-60 with 6GE, 4 SFP+",EOL12148,https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-740021.html,6/1/18,5/31/21,5/31/23
+ASA5585-SSP-CX20,ASAHIGH,^ASA 5585-X CX Security Services Processor-20 with 8GE,EOL10154,http://www.cisco.com/c/en/us/products/collateral/security/asa-5500-series-next-generation-firewalls/eos-eol-notice-c51-733917.html,8/17/15,8/16/18,8/31/20
+ASA-IC-6GE-SFP-A,ASAMID,"^^ASA 5512-X/5515-X Interface Card 6-port GE SFP (SX,LH,LX)",EOL14818,,9/4/20,9/4/23,9/30/25
+ASA-IC-6GE-SFP-B,ASAMID,"^^ASA 5525-X Interface Card 6-port GE SFP (SX,LH,LX)",EOL13130,https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-743545.html,9/4/20,9/4/23,9/30/25
+ASA-IC-6GE-SFP-C,ASAMID,"^^ASA 5545-X/5555-X Interface Card 6-port GE SFP (SX,LH,LX)",EOL13130,https://www.cisco.com/c/en/us/products/collateral/security/asa-firepower-services/eos-eol-notice-c51-743545.html,9/4/20,9/4/23,9/30/25
+ASR1000-6TGE,ASR1000,ASR1000 6 port 10 GE Line Card,EOL14624,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1001-x-1002-x-eol.html,8/1/22,7/31/25,7/31/27
+ASR1000-ESP10,ASR1000,"^^^Cisco ASR1000 Embedded Services Processor, 10G",EOL10291,http://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-734572.html,4/29/16,N/A,4/30/21
+ASR1000-ESP100,ASR1000,"Cisco ASR1000 Embedded Services Processor, 100G",N/A,N/A,N/A,N/A,N/A
+ASR1000-ESP100-X,ASR1000,"Cisco ASR1000 Embedded Services Processor X, 100G",N/A,N/A,N/A,N/A,N/A
+ASR1000-ESP20,ASR1000,"^Cisco ASR1000 Embedded Services Processor, 20G",EOL12363,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-740476.html,3/26/19,3/25/22,3/31/24
+ASR1000-ESP200,ASR1000,"Cisco ASR1000 Embedded Services Processor, 200G",N/A,N/A,N/A,N/A,N/A
+ASR1000-ESP40,ASR1000,"^^Cisco ASR1000 Embedded Services Processor, 40G",EOL13417,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-743721.html,10/29/20,10/29/23,10/31/25
+ASR1000-MIP100,ASR1000,ASR1000 100G Modular Interface Processor,N/A,N/A,N/A,N/A,N/A
+ASR1000-RP1,ASR1000,"^^^Cisco ASR1000 Route Processor 1,4GB DRAM",EOL10291,http://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-734572.html,4/29/16,N/A,4/30/21
+ASR1000-RP2,ASR1000,"Cisco ASR1000 Route Processor 2, 8GB DRAM",EOL14742,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1000-rp2-spa-misc-cable-skus-eol.html,8/15/22,11/2/25,11/30/27
+ASR1000-RP3,ASR1000,Cisco ASR1000 Route Processor 3,N/A,N/A,N/A,N/A,N/A
+ASR1000-SIP10,ASR1000,^^^Cisco ASR1000 SPA Interface Processor 10,EOL10291,http://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-734572.html,4/29/16,N/A,4/30/21
+ASR1000-SIP40,ASR1000,Cisco ASR1000 SPA Interface Processor 40,N/A,N/A,N/A,N/A,N/A
+ASR1001,ASR1000,"^^^Cisco ASR1001 System,Crypto, 4 built-in GE, Dual P/S",EOL10291,http://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-734572.html,4/29/16,N/A,4/30/21
+ASR1001-X,ASR1000,"Cisco ASR1001-X Chassis, 6 built-in GE, Dual P/S, 8GB DRAM",EOL14624,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1001-x-1002-x-eol.html,8/1/22,7/31/25,7/31/27
+ASR1002-HX,ASR1000,"Cisco ASR1002-HX System,4x10GE+4x1GE, 2xP/S, optional crypto",N/A,N/A,N/A,N/A,N/A
+ASR1002-X,ASR1000,"Cisco ASR1002-X Chassis, 6 built-in GE, Dual P/S, 4GB DRAM",EOL14624,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1001-x-1002-x-eol.html,8/1/22,7/31/25,7/31/27
+ASR1004,ASR1000,"Cisco ASR1004 Chassis, Dual P/S",EOL13027,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-742333.html,4/29/20,4/29/23,4/30/25
+ASR1006,ASR1000,"Cisco ASR1006 Chassis, Dual P/S",N/A,N/A,N/A,N/A,N/A
+ASR1006-X,ASR1000,Cisco ASR1006-X Chassis,N/A,N/A,N/A,N/A,N/A
+ASR1009-X,ASR1000,Cisco ASR1009-X Chassis,N/A,N/A,N/A,N/A,N/A
+ASR1013,ASR1000,"Cisco ASR1013 Chassis, Redundant P/S",EOL13626,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/eos-eol-notice-c51-744362.html,10/6/21,10/5/24,10/31/26
+ASR-9001,ASR9000,ASR 9001 Chassis,EOL14473,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/asr-9001-router-eol.html,2/11/22,2/10/25,2/28/27
+ASR-9001-S,ASR9000,ASR 9001 Chassis with 60G Bandwidth,EOL14473,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/asr-9001-router-eol.html,2/11/22,2/10/25,2/28/27
+ASR-9010-AC-V2,ASR9000,ASR 9010 AC Chassis with PEM Version 2,N/A,N/A,N/A,N/A,N/A
+ASR-9901,ASR9000,"ASR 9901 Compact Chassis, 2RU",N/A,N/A,N/A,N/A,N/A
+ASR-9904,ASR9KFM,ASR-9904 2 Line Card Slot Chassis,N/A,N/A,N/A,N/A,N/A
+ASR-9906,ASR9KFM,ASR 9906 4 Line Card Slot Chassis,N/A,N/A,N/A,N/A,N/A
+ASR-9912,ASR9KFM,ASR 9912 10 Line Card Slot Chassis,N/A,N/A,N/A,N/A,N/A
+C1100TG-1N24P32A,ISR1K,"Cisco 1100 Term Gateway w/ 32 Async,24-Port, 1 NIM",N/A,N/A,N/A,N/A,N/A
+C1100TGX-1N24P32A,ISR1K,"Cisco 1100 Term Gateway w/ 32 Async,24-Port, 1 NIM (8G)",N/A,N/A,N/A,N/A,N/A
+C1111-4P,ISR1K,ISR 1100 4 Ports Dual GE WAN Ethernet Router,N/A,N/A,N/A,N/A,N/A
+C1111-8P,ISR1K,ISR 1100 8 Ports Dual GE WAN Ethernet Router,N/A,N/A,N/A,N/A,N/A
+C1121-8P,ISR1K,ISR 1100 8P Dual GE SFP Router,N/A,N/A,N/A,N/A,N/A
+C2960X-STACK,C2960X,Catalyst 2960-X FlexStack Plus Stacking Module,EOL13603,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-x-series-switches/eos-eol-notice-c51-744432.html,10/31/22,10/31/27,10/31/27
+C3850-NM-2-10G,C3850,Cisco Catalyst 3850 2 x 10GE Network Module,EOL13873,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-2438804.html,4/30/22,4/30/27,4/30/27
+C3850-NM-4-10G,C3850,Cisco Catalyst 3850 4 x 10GE Network Module,EOL13873,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-2438804.html,4/30/22,4/30/27,4/30/27
+C3850-NM-4-1G,C3850,Cisco Catalyst 3850 4 x 1GE Network Module,EOL13873,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-2438804.html,4/30/22,4/30/27,4/30/27
+C3850-NM-8-10G,3KAGG,Cisco Catalyst 3850 8 x 10GE Network Module,EOL13873,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-2438804.html,4/30/22,4/30/27,4/30/27
+C3900-SPE150/K9,3900ISR,^Cisco Services Performance Engine 150 for Cisco 3945 ISR,EOL11157,https://www.cisco.com/c/en/us/products/collateral/routers/3900-series-integrated-services-routers-isr/eos-eol-notice-c51-737830.html,12/9/17,9/8/20,12/31/22
+C3900-SPE250/K9,3900ISR,^Cisco Services Performance Engine 250 for Cisco 3945E ISR,EOL11157,https://www.cisco.com/c/en/us/products/collateral/routers/3900-series-integrated-services-routers-isr/eos-eol-notice-c51-737830.html,12/9/17,9/8/20,12/31/22
+C3KX-NM-10G,C3750X,^Catalyst 3K-X 10G Network Module option PID,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+C3KX-NM-1G,C3750X,^Catalyst 3K-X 1G Network Module option PID,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+C3KX-SM-10G,C3750X,^Catalyst 3K-X 10G Service Module,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+C3-XENPAK10GB-LR,XENPAK,^10GBASE-LR XENPAK Module for Catalyst 3750,EOL5805,http://www.cisco.com/en/US/products/hw/modules/ps5455/prod_eol_notice0900aecd80665f79.html,12/13/07,N/A,12/31/12
+C819HG+7-K9,M2M800,"^C819 Secure Hardened M2M GW (non-US) 3.7G HSPA + R7, SMS/GPS",EOL10864,http://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-737356.html,12/2/16,12/2/19,12/31/21
+C819HG-4G-G-K9,M2M800,"^C819 Hardened 4G LTE for Global, 800/900/1800/2100/2600 MHz",EOL10990,http://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-737365.html,8/30/16,12/2/19,12/31/21
+C819HG-LTE-MN/A-K9,M2M800,C819 Hardened 4G LTE M2M GW for Multi Carrier North America,EOL13747,https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-744744.html,1/11/22,1/10/25,1/31/27
+C819HG-U-K9,M2M800,^C819 Secure Hardened M2M GW (non-US) 3.5G HSPA R6 w/ SMS/GPS,EOL10592,http://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-735847.html,9/22/15,9/22/18,9/30/20
+C819HGW+7-A-A-K9,M2M800,^C819 M2M Hardened 3.7G HSPA+ North America w/ Dual Radio FCC,EOL10864,http://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-737356.html,12/2/16,12/2/19,12/31/21
+C819H-K9,M2M800,C819 M2M Hardened Secure Router with Smart Serial,EOL13747,https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-744744.html,1/11/22,1/10/25,1/31/27
+C8200-1N-4T,CAT8200,Cisco Catalyst C8200-1N-4T Router,N/A,N/A,N/A,N/A,N/A
+C8300-1N1S-4T2X,CAT8300,Cisco Catalyst C8300-1N1S-4T2X Router,N/A,N/A,N/A,N/A,N/A
+C8500-12X4QC,CAT8500,Cisco Catalyst 8500-12X4QC Edge Platform,N/A,N/A,N/A,N/A,N/A
+C891-24X/K9,800BB,Cisco 891 with 2GE/2SFP  and 24 Switch Ports,N/A,N/A,N/A,11/30/28,N/A
+C891F-K9,800BB,Cisco 890 Series Integrated Services Routers,N/A,N/A,N/A,11/30/28,N/A
+C891FW-E-K9,800BB,^Cisco 890 Series Integrated Services Routers,EOL12540,https://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-741365.html,3/20/19,3/19/22,3/31/24
+C892FSP-K9,800BB,Cisco 892FSP 1 GE and 1GE/SFP High Perf Security Router,N/A,N/A,N/A,11/30/28,N/A
+C9300-24P,C9300,"Catalyst 9300 24-port PoE+,Base switch",N/A,N/A,N/A,N/A,N/A
+C9300-24S,C9300,Catalyst 9300 24-port Fiber Base switch,N/A,N/A,N/A,N/A,N/A
+C9300-24T,C9300,"Catalyst 9300 24-port data only,Base switch",N/A,N/A,N/A,N/A,N/A
+C9300-24U,C9300,"Catalyst 9300 24-port UPOE,Base switch",N/A,N/A,N/A,N/A,N/A
+C9300-24UX,C9300,"Catalyst 9300 24-port mGig and UPOE, base switch",N/A,N/A,N/A,N/A,N/A
+C9300-48P,C9300,"Catalyst 9300 48-port PoE+,Base switch",N/A,N/A,N/A,N/A,N/A
+C9300-48S,C9300,"Catalyst 9300 48-port Fiber , Base Switch",N/A,N/A,N/A,N/A,N/A
+C9300-48T,C9300,"Catalyst 9300 48-port data only,Base switch",N/A,N/A,N/A,N/A,N/A
+C9300-48U,C9300,"Catalyst 9300 48-port UPOE,Base switch",N/A,N/A,N/A,N/A,N/A
+C9300-48UXM,C9300,"Catalyst 9300 48-port(12 mGig&36 2.5Gbps), base switch",N/A,N/A,N/A,N/A,N/A
+C9300-NM-4G,C9300,Catalyst 9300 4 x 1GE Network Module,N/A,N/A,N/A,N/A,N/A
+C9300-NM-4M,C9300,Catalyst 9300 4 x mGig Network Module,N/A,N/A,N/A,N/A,N/A
+C9300-NM-8X,C9300,Catalyst 9300 8 x 10GE Network Module,N/A,N/A,N/A,N/A,N/A
+C9400-LC-48P,C9400,Cisco Catalyst 9400 Series 48-Port POE+ 10/100/1000 (RJ-45),N/A,N/A,N/A,N/A,N/A
+C9400-LC-48S,C9400,Cisco Catalyst 9400 Series 48-Port Gigabit Ethernet(SFP),N/A,N/A,N/A,N/A,N/A
+C9400-LC-48U,C9400,Cisco Catalyst 9400 Series 48-Port UPOE 10/100/1000 (RJ-45),N/A,N/A,N/A,N/A,N/A
+C9400-SUP-1,C9400,Cisco Catalyst 9400 Series Supervisor 1 Module,N/A,N/A,N/A,N/A,N/A
+C9400X-SUP-2,C9400,Cisco Catalyst 9400 Series Supervisor 2 Module,N/A,N/A,N/A,N/A,N/A
+C9407R,C9400,Cisco Catalyst 9400 Series 7 slot chassis,N/A,N/A,N/A,N/A,N/A
+C9500-32C,C9500,Catalyst 9500 Base PID,N/A,N/A,N/A,N/A,N/A
+C9500-40X,C9500,"Catalyst 9500 40-port 10Gig switch, Baseboard",N/A,N/A,N/A,N/A,N/A
+C9500-48Y4C,C9500,Catalyst 9500 Base PID,N/A,N/A,N/A,N/A,N/A
+C9500-NM-2Q,C9500,Cisco Catalyst 9500 2 x 40GE Network Module,N/A,N/A,N/A,N/A,N/A
+C9500-NM-8X,C9500,Cisco Catalyst 9500 8 x 10GE Network Module,N/A,N/A,N/A,N/A,N/A
+C9K-F1-SSD-960G,C9500,Cisco pluggable SSD storage,N/A,N/A,N/A,N/A,N/A
+CISCO1812/K9,800BB,^Dual Ethernet Security Router with ISDN S/T Backup,EOL7077,http://www.cisco.com/en/US/prod/collateral/routers/ps5853/eol_c51_597946.html,4/16/11,N/A,4/30/16
+CISCO1921/K9,1900ISR,"^^C1921 Modular Router, 2 GE, 2 EHWIC slots, 512DRAM, IP Base",EOL12141,https://www.cisco.com/c/en/us/products/collateral/routers/1900-series-integrated-services-routers-isr/eos-eol-notice-c51-740520.html,9/29/18,9/28/21,9/30/23
+CISCO1941/K9,1900ISR,"^^Cisco 1941 w/2 GE,2 EHWIC slots,256MB CF,512MB DRAM,IP Base",EOL12141,https://www.cisco.com/c/en/us/products/collateral/routers/1900-series-integrated-services-routers-isr/eos-eol-notice-c51-740520.html,9/29/18,9/28/21,9/30/23
+CISCO2621XM,2600,"^Mid Perf Dual 10/100 Ethernet Router w/Cisco IOS IP,32F/128D",EOL1022,http://www.cisco.com/en/US/products/hw/routers/ps259/prod_eol_notice0900aecd804446da.html,3/27/07,N/A,3/31/12
+CISCO2811,2800,"2811 w/ AC PWR,2FE,4HWICs,2PVDMs,1NME,2AIMS,IPBASE,128F/512D",EOL7237,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51-631228.html,11/1/11,10/31/14,10/31/16
+CISCO2821,2800,"^2821 w/ AC PWR,2GE,4HWICs,3PVDM,1NME-X,2AIM,IPBASE,128F/512",EOL7237,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51-631228.html,11/1/11,10/31/14,10/31/16
+CISCO2821-SEC/K9,2800,"^2821 Security Bundle,Adv Security,128F/512D",EOL7237,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51-631228.html,11/1/11,10/31/14,10/31/16
+CISCO2901/K9,2900ISR,"^Cisco 2901 w/2 GE,4 EHWIC,2 DSP,256MB CF,512MB DRAM,IP Base",EOL11158,http://www.cisco.com/c/en/us/products/collateral/routers/2900-series-integrated-services-routers-isr/eos-eol-notice-c51-737831.html,12/9/17,12/8/20,12/31/22
+CISCO2911/K9,2900ISR,"^^Cisco 2911 w/3 GE,4 EHWIC,2 DSP,1 SM,256MB CF,512MB DRAM,IPB",EOL11158,http://www.cisco.com/c/en/us/products/collateral/routers/2900-series-integrated-services-routers-isr/eos-eol-notice-c51-737831.html,12/9/17,12/8/20,12/31/22
+CISCO2911-HSEC/K9,2900ISR,^^HSEC bundle  (no ISM VPN module) for 2911 ISR platform,EOL11158,http://www.cisco.com/c/en/us/products/collateral/routers/2900-series-integrated-services-routers-isr/eos-eol-notice-c51-737831.html,12/9/17,12/8/20,12/31/22
+CISCO2921/K9,2900ISR,"^Cisco 2921 w/3 GE,4 EHWIC,3 DSP,1 SM,256MB CF,512MB DRAM,IPB",EOL11158,http://www.cisco.com/c/en/us/products/collateral/routers/2900-series-integrated-services-routers-isr/eos-eol-notice-c51-737831.html,12/9/17,12/8/20,12/31/22
+CISCO2951/K9,2900ISR,"^^Cisco 2951 w/3 GE,4 EHWIC,3 DSP,2 SM,256MB CF,512MB DRAM,IPB",EOL11158,http://www.cisco.com/c/en/us/products/collateral/routers/2900-series-integrated-services-routers-isr/eos-eol-notice-c51-737831.html,12/9/17,12/8/20,12/31/22
+CISCO3640,3600,^Cisco 3600 4-slot Modular Router-AC with IP Software,1920A,http://www.cisco.com/en/US/products/hw/routers/ps274/prod_eol_notice09186a008032d840.html,11/15/02,N/A,11/1/07
+CISCO3745,3700,"^3700 Series, 4-Slot, Dual FE, Multiservice Router 32F/256D",EOL1023,http://www.cisco.com/en/US/products/hw/routers/ps282/prod_eol_notice0900aecd80444877.html,3/27/07,N/A,3/31/12
+CISCO3745-MB,3700,^Cisco 3745 Motherboard,EOL6313,http://www.cisco.com/en/US/prod/collateral/routers/ps282/prod_end-of-life_notice0900aecd8072a6ad.html,7/9/08,N/A,7/31/13
+CISCO3825,3800,"^3825 w/AC PWR, 2GE,1SFP, 2NME, 4HWIC, IP Base, 128F/512D",EOL7247,http://www.cisco.com/en/US/prod/collateral/routers/ps5855/eol_c51_624090.html,11/1/11,10/31/14,10/31/16
+CISCO3845,3800,"^3845 w/AC PWR,2GE,1SFP,4NME,4HWIC, IP Base, 128F/512D",EOL7247,http://www.cisco.com/en/US/prod/collateral/routers/ps5855/eol_c51_624090.html,11/1/11,10/31/14,10/31/16
+CISCO3845-HSEC/K9,3800,"^3845 Bund. w/AIM-VPN/SSL-3,Adv. IP Serv,25 SSL lic,128F/512D",EOL7247,http://www.cisco.com/en/US/prod/collateral/routers/ps5855/eol_c51_624090.html,11/1/11,10/31/14,10/31/16
+CISCO3845-MB,3800,^Cisco 3845 motherboard,EOL8013,http://www.cisco.com/en/US/products/ps5853/prod_eol_notices_list.html,5/21/12,N/A,5/31/17
+CISCO3945-CHASSIS,3900ISR,"^Cisco 3945 Chassis (slot for SPE, 4 SM slots, dual PS slots)",EOL11157,https://www.cisco.com/c/en/us/products/collateral/routers/3900-series-integrated-services-routers-isr/eos-eol-notice-c51-737830.html,12/9/17,9/8/20,12/31/22
+CISCO3945-HSEC/K9,3900ISR,^HSEC bundle  (no ISM VPN module) for 3945 ISR platform,EOL11157,https://www.cisco.com/c/en/us/products/collateral/routers/3900-series-integrated-services-routers-isr/eos-eol-notice-c51-737830.html,12/9/17,9/8/20,12/31/22
+CISCO5915RA-K9,5900,"Cisco 5915 ESR - PC104, Rugged, Air-cooled",EOL13746,https://www.cisco.com/c/en/us/products/collateral/routers/5900-series-embedded-services-routers/eos-eol-notice-c51-744743.html,1/11/22,1/10/25,1/31/27
+CISCO5921-K9,5900,Cisco 5921 Embedded Services Router SW for x86 Processor,EOL14826,https://www.cisco.com/c/en/us/products/collateral/routers/5921-embedded-services-router/5921-embedded-services-router-eol.html,3/1/23,2/28/26,2/29/28
+CISCO7206VXR,7200,"Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software",EOL7682,http://www.cisco.com/en/US/prod/collateral/routers/ps341/end_of_life_c51-681414.html,9/29/12,N/A,9/30/17
+CISCO7606-S,7600,^Cisco 7606-S Chassis,EOL10361,http://www.cisco.com/c/en/us/products/collateral/routers/7600-series-routers/eos-eol-notice-c51-735517.html,7/24/16,N/A,7/31/21
+CISCO7609-S,7600,^Cisco 7609-S Chassis including fans,EOL10361,http://www.cisco.com/c/en/us/products/collateral/routers/7600-series-routers/eos-eol-notice-c51-735517.html,7/24/16,N/A,7/31/21
+CISCO851-K9,800BB,^Ethernet SOHO Security  Router,EOL6924,http://www.cisco.com/en/US/prod/collateral/routers/ps380/eol_c51_577880.html,7/15/10,N/A,7/31/15
+CISCO891-K9,800BB,^Cisco 891 GigaE SecRouter,EOL9589,http://www.cisco.com/c/en/us/products/collateral/routers/800-series-routers/eos-eol-notice-c51-731104.html,8/22/14,8/21/17,8/31/19
+CISCO892F-K9,800BB,^Cisco 892 GigaE SecRouter with SFP,EOL9502,http://www.cisco.com/en/US/prod/collateral/routers/ps380/eos-eol-notice-c51-730680.html,7/3/14,N/A,7/31/19
+CLK-7600,7600,^Clock card for CISCO7603 or 7606,EOL10361,http://www.cisco.com/c/en/us/products/collateral/routers/7600-series-routers/eos-eol-notice-c51-735517.html,7/24/16,N/A,7/31/21
+CPAK-100G-ER4L,CPAK100,"CPAK module, 100G for applications <25km",EOL14547,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/100g-cpak-optical-transceivers-eol.html,3/10/22,3/9/25,3/31/27
+CPAK-100G-LR4,CPAK100,"CPAK-100G-LR4 Transceiver module, 10km SMF",N/A,N/A,N/A,N/A,N/A
+CPAK-100G-SR10,CPAK100,"CPAK-100G-SR10 Transceiver module, 100m OM3 MMF",EOL14620,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/100g-cpak-cfp2-optical-transceivers-eol.html,12/22/22,12/21/24,12/31/27
+CPAK-100G-SR4,CPAK100,"CPAK optical transceiver module, 100GBASE-SR4, 100m OM4",N/A,N/A,N/A,N/A,N/A
+CPAK-10X10G-LR,CPAK100,"CPAK-10X10GLR, Transceiver module, 10 x 10Gb/s 10km SMF",EOL14618,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/cer-100g-cpak-optical-transceivers-eol.html,10/27/22,10/26/25,10/31/27
+CRS1-SIP-800,CRS,^Cisco Carrier Routing System SPA Interface Processor Card,EOL10368,http://www.cisco.com/c/en/us/products/collateral/routers/carrier-routing-system/eos-eol-notice-c51-734902.html,12/5/15,12/4/18,12/31/20
+CRS-8/S,CRS,^Cisco CRS Series 8 Slots Carrier Routing System/Single,EOL8363,http://www.cisco.com/en/US/prod/collateral/routers/ps5763/end_of_life_notice_c51-713529.html,7/31/13,N/A,7/31/20
+CRS-8-FC/S,CRS,^Cisco CRS-1 Series 8 Slots Fabric Card / Single,EOL8447,http://www.cisco.com/en/US/prod/collateral/routers/ps5763/end_of_life_notice_c51-713530.html,7/31/13,N/A,7/31/18
+CRS-8-LCC,CRS,^CRS-8 Line Card Chassis,EOL8363,http://www.cisco.com/en/US/prod/collateral/routers/ps5763/end_of_life_notice_c51-713529.html,7/31/13,N/A,7/31/20
+CRS-8-RP,CRS,^Cisco CRS-1 Series 8 Slots Route Processor,EOL8043,http://www.cisco.com/en/US/prod/collateral/routers/ps5763/end_of_life_notice_c51-695816.html,1/30/13,N/A,1/31/18
+CRS-MSC-B,CRS,^Cisco CRS-1 Modular Services Card Rev B,EOL10366,http://www.cisco.com/c/en/us/products/collateral/routers/carrier-routing-system/eos-eol-notice-c51-734903.html,12/5/15,12/4/18,12/31/20
+CVR-X2-SFP10G,X2,X2 to SFP+ Adaptor module,EOL14481,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/x2-port-adpater-eol.html,2/16/22,2/15/25,2/28/27
+EC-MFT-32,ICV,^32-Channel Multiflex Trunk Dedicated ECAN Module,EOL7469,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51-655336.html,12/2/11,N/A,11/30/16
+EHWIC-1GE-SFP-CU,WANLAN,^^EHWIC 1 port dual mode SFP(100M/1G) or GE(10M/100M/1G),EOL12630,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html,2/22/19,2/21/22,2/29/24
+EHWIC-4ESG,WANLAN,^^Four port 10/100/1000 Ethernet switch interface card,EOL12630,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html,2/22/19,2/21/22,2/29/24
+EHWIC-4ESG-P,WANLAN,^^Four port 10/100/1000 Ethernet switch interface card w/PoE,EOL12630,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html,2/22/19,2/21/22,2/29/24
+EHWIC-D-8ESG,WANLAN,^^Eight port 10/100/1000 Ethernet switch interface card,EOL12630,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html,2/22/19,2/21/22,2/29/24
+EHWIC-D-8ESG-P,WANLAN,^^Eight port 10/100/1000 Ethernet switch interface card w/ PoE,EOL12630,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html,2/22/19,2/21/22,2/29/24
+EPA-10X10GE,ASR1000,ASR1000 10X10GE Ethernet Port Adapter,N/A,N/A,N/A,N/A,N/A
+EPA-18x1GE,ASR1000,ASR1000 18X1GE EPA,N/A,N/A,N/A,N/A,N/A
+EPA-QSFP-1X100GE,ASR1000,ASR1000 1X100GE QSFP Ethernet Port Adapter,N/A,N/A,N/A,N/A,N/A
+ESA-C170-K9,ESA,^ESA C170 Email Security Appliance,EOL10894,http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html,11/8/16,11/8/19,11/30/21
+ESA-C190-K9,ESA,^ESA C190 Email Security Appliance,EOL12972,https://www.cisco.com/c/en/us/products/collateral/security/email-security-appliance/eos-eol-notice-c51-742450.html,6/12/19,6/30/24,6/30/24
+ESA-C380-K9,ESA,^^ESA C380 Email Security Appliance,EOL10894,http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html,11/8/16,11/8/19,11/30/21
+ESA-C390-K9,ESA,^ESA C390 Email Security Appliance,EOL12972,https://www.cisco.com/c/en/us/products/collateral/security/email-security-appliance/eos-eol-notice-c51-742450.html,6/12/19,6/30/24,6/30/24
+ESA-C680-K9,ESA,^^ESA C680 Email Security Appliance,EOL10894,http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html,11/8/16,11/8/19,11/30/21
+ESA-C690-K9,ESA,^ESA C690 Email Security Appliance,EOL12972,https://www.cisco.com/c/en/us/products/collateral/security/email-security-appliance/eos-eol-notice-c51-742450.html,6/12/19,6/30/24,6/30/24
+ESS-2020-NCP-B,ESS2000,ESS2020 Main Board with 8FE + 2GE - Air Cooled - Lan Base,EOL14561,https://www.cisco.com/c/en/us/products/collateral/switches/embedded-service-2020-series-switches/embedded-service-2020-series-switches-eol.html,7/19/22,7/18/25,7/31/27
+FET-10G,SFP10G,10G Line Extender for FEX,N/A,N/A,N/A,N/A,N/A
+FMC1000-K9,FSIGHT,^Cisco Firepower Management Center 1000 Chassis,EOL13091,https://www.cisco.com/c/en/us/products/collateral/security/firesight-management-center/eos-eol-notice-c51-742625.html,7/12/19,7/11/22,7/31/24
+FMC2500-K9,FSIGHT,^Cisco Firepower Management Center 2500 Chassis,EOL13091,https://www.cisco.com/c/en/us/products/collateral/security/firesight-management-center/eos-eol-notice-c51-742625.html,7/12/19,7/11/22,7/31/24
+FMC4500-K9,FSIGHT,^Cisco Firepower Management Center 4500 Chassis,EOL13091,https://www.cisco.com/c/en/us/products/collateral/security/firesight-management-center/eos-eol-notice-c51-742625.html,7/12/19,7/11/22,7/31/24
+FPR-1010,FPRLOW,"Cisco Firepower 1010 Appliance, Desktop",N/A,N/A,N/A,N/A,N/A
+FPR-2110,FPRMID,"Firepower 2110 Appliance, 1RU, 12 GE, 4 xSFP, 1 MGMT",N/A,N/A,N/A,N/A,N/A
+FPR-2110-K9,FPRMID,"^Firepower 2110 Appliance, 1U",N/A,N/A,N/A,N/A,N/A
+FPR-2120,FPRMID,"Firepower 2120 Appliance, 1RU, 12 GE, 4 xSFP, 1 MGMT",N/A,N/A,N/A,N/A,N/A
+FPR-2130,FPRMID,"Firepower 2130 Appliance,1RU, 12GE, 4 xSFP+, 1MGMT, 1NM Slot",N/A,N/A,N/A,N/A,N/A
+FPR-2130-K9,FPRMID,"^Firepower 2130 Appliance, 1U",N/A,N/A,N/A,N/A,N/A
+FPR-2140,FPRMID,"Firepower 2140 Appliance,1RU, 12GE, 4 xSFP+, 1MGMT, 1NM Slot",N/A,N/A,N/A,N/A,N/A
+FPR-4120-K9,FPRHIGH,"^Firepower 4120 Appliance, 1U, 2 x NetMod Bays",EOL13333,https://www.cisco.com/c/en/us/products/collateral/security/firepower-ngfw/eos-eol-notice-c51-743522.html,8/31/20,8/31/25,8/31/25
+FPR-4140-K9,FPRHIGH,"^Firepower 4140 Appliance, 1U, 2 x NetMod Bays",EOL13333,https://www.cisco.com/c/en/us/products/collateral/security/firepower-ngfw/eos-eol-notice-c51-743522.html,8/31/20,8/31/25,8/31/25
+FPR-4150-K9,FPRHIGH,"^Firepower 4150 Appliance, 1U, 2 x NetMod Bays",EOL13333,https://www.cisco.com/c/en/us/products/collateral/security/firepower-ngfw/eos-eol-notice-c51-743522.html,8/31/20,8/31/25,8/31/25
+FPR9K-SM-24,FPRUHI,^^Firepower 9000 Series Security Module - 24,EOL13333,https://www.cisco.com/c/en/us/products/collateral/security/firepower-ngfw/eos-eol-notice-c51-743522.html,8/31/20,8/31/25,8/31/25
+FPR9K-SM-36,FPRUHI,^^Firepower 9000 Series High Performance Security Module,EOL13333,https://www.cisco.com/c/en/us/products/collateral/security/firepower-ngfw/eos-eol-notice-c51-743522.html,8/31/20,8/31/25,8/31/25
+FPR9K-SM-44,FPRUHI,^^Firepower 9000 Series Ultra High Performance Security Module,EOL13333,https://www.cisco.com/c/en/us/products/collateral/security/firepower-ngfw/eos-eol-notice-c51-743522.html,8/31/20,8/31/25,8/31/25
+FS2000-K9,FSIGHT,^^^Cisco Firepower Management Center 2000 Chassis,EOL11559,http://www.cisco.com/c/en/us/products/collateral/security/firesight-management-center/eos-eol-notice-c51-738657.html,3/31/17,8/28/20,3/31/22
+FS4000-K9,FSIGHT,^^Cisco Firepower Management Center 4000 Chassis,EOL11558,http://www.cisco.com/c/en/us/products/collateral/security/firesight-management-center/eos-eol-notice-c51-738656.html,3/31/17,8/28/20,3/31/22
+GE-DCARD-ESW,WANLAN,^1 GE (1000BaseT) daughtercard for Etherswitch Modules,EOL7259,http://www.cisco.com/en/US/prod/collateral/modules/ps2797/eol_c51-632346.html,11/15/11,11/14/14,11/30/16
+GLC-FE-100EX,SFPFE,100BASE-EX SFP (40km),N/A,N/A,N/A,N/A,N/A
+GLC-FE-100FX,SFPFE,100BASE-FX SFP  for FE port,N/A,N/A,N/A,N/A,N/A
+GLC-GE-100FX,SFPFE,100FX SFP on GE ports,N/A,N/A,N/A,N/A,N/A
+GLC-LH-SM,SFPGE,"^GE SFP, LC connector LX/LH transceiver",EOL7727,http://www.cisco.com/en/US/prod/collateral/modules/ps5455/eol_c51-698060.html,3/8/13,N/A,3/31/18
+GLC-LH-SMD,SFPGE,"1000BASE-LX/LH SFP transceiver module, MMF/SMF, 1310nm, DOM",N/A,N/A,N/A,N/A,N/A
+GLC-SX-MM,SFPGE,"^GE SFP, LC connector SX transceiver",EOL7727,http://www.cisco.com/en/US/prod/collateral/modules/ps5455/eol_c51-698060.html,3/8/13,N/A,3/31/18
+GLC-SX-MMD,SFPGE,"1000BASE-SX SFP transceiver module, MMF, 850nm, DOM",N/A,N/A,N/A,N/A,N/A
+GLC-SX-MM-RGD,SFPGE,1000Mbps Multi-Mode Rugged SFP,N/A,N/A,N/A,N/A,N/A
+GLC-T,SFPGE,^1000BASE-T SFP,EOL10987,http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-737325.html,6/1/17,N/A,5/31/22
+GLC-TE,SFPGE,1000BASE-T SFP transceiver module for Category 5 copper wire,N/A,N/A,N/A,N/A,N/A
+GLC-ZX-SMD,SFPGE,"1000BASE-ZX SFP transceiver module, SMF, 1550nm, DOM",N/A,N/A,N/A,N/A,N/A
+HWIC-16A,WANLAN,^^16-Port Async HWIC,EOL12630,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html,2/22/19,2/21/22,2/29/24
+HWIC-1DSU-T1,WANLAN,^^1-Port T1/Fractional T1 DSU/CSU WAN Interface Card,EOL12630,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html,2/22/19,2/21/22,2/29/24
+HWIC-1FE,WANLAN,^1-port 10/100 Routed Port HWIC,EOL8091,http://www.cisco.com/en/US/prod/collateral/routers/ps5855/eol_c51-696796.html,7/13/12,N/A,7/31/17
+HWIC-1GE-SFP,WANLAN,^GigE High Speed WIC With One SFP Slot,EOL8091,http://www.cisco.com/en/US/prod/collateral/routers/ps5855/eol_c51-696796.html,7/13/12,N/A,7/31/17
+HWIC-2A/S,WANLAN,^2-Port Async/Sync Serial WAN Interface Card,EOL11178,http://www.cisco.com/c/en/us/products/collateral/routers/2900-series-integrated-services-routers-isr/eos-eol-notice-c51-737888.html,12/9/17,12/8/20,12/31/22
+HWIC-2FE,WANLAN,^^Two 10/100 routed port HWIC,EOL12630,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html,2/22/19,2/21/22,2/29/24
+HWIC-2T,WANLAN,^^2-Port Serial WAN Interface Card,EOL12630,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html,2/22/19,2/21/22,2/29/24
+HWIC-4ESW,WANLAN,Four port 10/100 Ethernet switch interface card,EOL8091,http://www.cisco.com/en/US/prod/collateral/routers/ps5855/eol_c51-696796.html,7/13/12,N/A,7/31/17
+HWIC-4T,WANLAN,^4-Port Serial HWIC,EOL11178,http://www.cisco.com/c/en/us/products/collateral/routers/2900-series-integrated-services-routers-isr/eos-eol-notice-c51-737888.html,12/9/17,12/8/20,12/31/22
+HWIC-8A,WANLAN,^^8-Port Async HWIC,EOL12630,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html,2/22/19,2/21/22,2/29/24
+ILPM-8,1700,^8 port 802.3af capable inline power module for HWICD-9ESW,EOL8570,http://www.cisco.com/en/US/prod/collateral/routers/ps259/end_of_life_notice_c51-713614.html,1/31/13,1/31/16,1/31/18
+ISM-VPN-29,SEC,^3DES/AES/SUITE-B VPN Encryption module,EOL11178,http://www.cisco.com/c/en/us/products/collateral/routers/2900-series-integrated-services-routers-isr/eos-eol-notice-c51-737888.html,12/9/17,12/8/20,12/31/22
+ISR-1100-POE4,ISR1K,ISR 1100 4 Ports 802.3at POE Module (4 POE or 2 POE+),N/A,N/A,N/A,N/A,N/A
+ISR4221/K9,4200ISR,"Cisco ISR 4221 (2GE,2NIM,8G FLASH,4G DRAM,IPB)",EOL14896,https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/select-isr4k-series-platform-eol.html,11/7/23,11/30/28,11/30/28
+ISR4321/K9,4300ISR,"Cisco ISR 4321 (2GE,2NIM,4G FLASH,4G DRAM,IPB)",EOL14896,https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/select-isr4k-series-platform-eol.html,11/7/23,11/30/28,11/30/28
+ISR4331/K9,4300ISR,"Cisco ISR 4331 (3GE,2NIM,1SM,4G FLASH,4G DRAM,IPB)",EOL14896,https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/select-isr4k-series-platform-eol.html,11/7/23,11/30/28,11/30/28
+ISR4351/K9,4300ISR,"Cisco ISR 4351 (3GE,3NIM,2SM,4G FLASH,4G DRAM,IPB)",EOL14896,https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/select-isr4k-series-platform-eol.html,11/7/23,11/30/28,11/30/28
+ISR4431/K9,4400ISR,"Cisco ISR 4431 (4GE,3NIM,8G FLASH,4G DRAM,IPB)",EOL14896,https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/select-isr4k-series-platform-eol.html,11/7/23,11/30/28,11/30/28
+ISR4451-X/K9,4400ISR,"Cisco ISR 4451 (4GE,3NIM,2SM,8G FLASH,4G DRAM)",EOL14896,https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/select-isr4k-series-platform-eol.html,11/7/23,11/30/28,11/30/28
+MEM-NPE-G2-FLD256,7200,"Cisco 7200 Compact Flash Disk for NPE-G2, 256 MB",EOL7682,http://www.cisco.com/en/US/prod/collateral/routers/ps341/end_of_life_c51-681414.html,9/29/12,N/A,9/30/17
+N2348TQ-FD-BUN,N2000,"^Standard airflow pack: N2K-C2348TQ, 2DC PS, 3 Fan",EOL13150,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-742812.html,9/9/20,9/9/23,9/30/25
+N2K-B22HP-P,N2000,^Cisco Nexus B22 Fabric Extender for HP,EOL13341,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-743723.html,5/2/21,5/1/24,5/31/26
+N2K-C2224TP-1GE,N2000,"^^N2K GE, 2 AC PS, 1 Fan (Std Air), 24x100/1000-T+2x10GE",EOL10672,http://www.cisco.com/c/en/us/products/collateral/switches/nexus-2000-series-fabric-extenders/eos-eol-notice-c51-736205.html,11/2/16,11/2/19,11/30/21
+N2K-C2248TP-1GE,N2000,"^^N2K GE, 2 AC PS, 1 Fan (Std Air) , 48x100/1000-T+4x10GE",EOL10672,http://www.cisco.com/c/en/us/products/collateral/switches/nexus-2000-series-fabric-extenders/eos-eol-notice-c51-736205.html,11/2/16,11/2/19,11/30/21
+N2K-C2248TP-E-1GE,N2000,"N2K GE, 2PS, 1 Fan Module, 48x100/1000-T+4x10GE (req SFP+)",EOL14471,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-2000-series-fabric-extenders/nexus-2248tp-ge-2348upq-10ge-2348tq-10ge-fabric-extenders-eol.html,8/24/22,8/23/25,8/31/27
+N2K-C2348TQ,N2000,"^^Nexus 2000, 10GT FEX; 48x1/10T; 6x40G QSFP",EOL13150,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-742812.html,9/9/20,9/9/23,9/30/25
+N2K-C2348TQ-10GE,N2000,^Nexus 2300 Series 10GT FEX; 48x100M/1/10GT; 6x40G QSFP,EOL13150,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-742812.html,9/9/20,9/9/23,9/30/25
+N2K-C2348TQ-10G-E,N2000,Nexus 2300 Series 10GT FEX; 48x100M/1/10GT; 6x40G QSFP,EOL14471,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-2000-series-fabric-extenders/nexus-2248tp-ge-2348upq-10ge-2348tq-10ge-fabric-extenders-eol.html,8/24/22,8/23/25,8/31/27
+N2K-C2348UPQ,N2000,"Nexus 2000, 10GE UP FEX; 48x1/10GE SFP+ ; 6x40G QSFP",EOL14471,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-2000-series-fabric-extenders/nexus-2248tp-ge-2348upq-10ge-2348tq-10ge-fabric-extenders-eol.html,8/24/22,8/23/25,8/31/27
+N2K-C2348UPQ-10GE,N2000,Nexus 2300 Series 10GE FEX; 48x1/10GE SFP+; 6x40G QSFP,EOL14471,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-2000-series-fabric-extenders/nexus-2248tp-ge-2348upq-10ge-2348tq-10ge-fabric-extenders-eol.html,8/24/22,8/23/25,8/31/27
+N2K-C2348UPQ12F,N2000,^Nexus 2348UPQ with (6FET-40G & 24FET-10G)),EOL13330,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-743752.html,5/5/21,5/4/24,5/31/26
+N55-D160L3-V2,N5000,"^Nexus 5548 Layer 3 Daughter Card, Version 2",EOL12308,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html,5/5/19,5/4/22,5/31/24
+N55-DL2,N5000,^Nexus 5548 Layer 2 Daughter Card,EOL12308,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html,5/5/19,5/4/22,5/31/24
+N5696-M12Q,N5000,Nexus 5696Q Chassis  Module 12Q 40GE Ethernet/FCoE,EOL13330,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-743752.html,5/5/21,5/4/24,5/31/26
+N5696-M20UP,N5000,^Nexus 5696Q Unified Mod 20P 10GE Eth/FCoE OR 8/4/2G FC,EOL13330,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-743752.html,5/5/21,5/4/24,5/31/26
+N56-M24UP2Q,N5000,"^^Nexus 56128P Module, 24x 10G SFP+ UP, 2x QSFP+ fixed ports",EOL13149,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-742815.html,9/9/20,9/9/23,9/30/25
+N5K-C5010P-BF,N5000,N5000 1RU Chassis no PS 2 Fan Modules 20 ports (req SFP+),EOL8411,http://www.cisco.com/en/US/prod/collateral/switches/ps9441/ps9670/eol_c51-709037.html,11/27/12,N/A,11/30/17
+N5K-C5548UP,N5000,^^Nexus 5548 Unified Port Chassis Base PID,EOL12308,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-740720.html,5/5/19,5/4/22,5/31/24
+N5K-C56128P,N5000,"^^Nexus 56128P 2RU Chassis, 48x10G SFP+, 4x40G QSFP+",EOL13149,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-742815.html,9/9/20,9/9/23,9/30/25
+N5K-C5672UP,N5000,"Nexus 5672UP 1RU, 32x10G SFP+, 16pxUP SFP+,  6x40G QSFP+",EOL13330,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-743752.html,5/5/21,5/4/24,5/31/26
+N5K-C5672UP-16G,N5000,"^Nexus 5672UP 1RU, 24x10G SFP+, 24pxUP SFP+,  6x40G QSFP+",EOL13330,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-743752.html,5/5/21,5/4/24,5/31/26
+N5K-C5696Q,N5000,"Nexus 5696Q Chassis  6PS,4 FAN VxLAN",EOL13330,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/eos-eol-notice-c51-743752.html,5/5/21,5/4/24,5/31/26
+N7K-C7010,N7000,"10 Slot Chassis, No Power Supplies, Fans Included",EOL13784,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-2357751.html,2/28/22,2/27/25,2/28/27
+N7K-C7010-FAB-2,N7000,^Nexus 7000 - 10 Slot Chassis - 110Gbps/Slot Fabric Module,EOL13787,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-2356665.html,2/28/22,2/27/25,2/28/27
+N7K-C7018,N7000,"^18 Slot Chassis, No Power Supplies, Fans Included",EOL13783,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-2357752.html,2/28/22,2/27/25,2/28/27
+N7K-C7018-FAB-2,N7000,^Nexus 7000 - 18 Slot Chassis - 110Gbps/Slot Fabric Module,EOL13787,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-2356665.html,2/28/22,2/27/25,2/28/27
+N7K-F248XP-25,N7000,^Nexus 7000 F2-Series 48 Port 10GbE (req. SFP+),EOL10178,http://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-733847.html,2/2/16,2/1/19,1/31/21
+N7K-F248XP-25E,N7000,^Nexus 7000 F2-Series 48 Port 1/10G (SFP+) Enhanced,EOL11261,http://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-738123.html,10/31/17,10/30/20,10/31/22
+N7K-F312FQ-25,N7000,^Nexus 7000 F3-Series 12 Port 40GbE (QSFP),EOL13790,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-2355936.html,2/28/22,2/27/25,2/28/27
+N7K-F348XP-25,N7000,^Nexus 7000 F3-Series 48 Port 10GbE (SFP+),EOL13790,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-2355936.html,2/28/22,2/27/25,2/28/27
+N7K-M224XP-23L,N7000,^^Nexus 7000 M2-Series 24 Port 10GE with XL Option (req. SFP+),EOL12305,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-740523.html,5/5/19,5/4/22,5/31/24
+N7K-SUP1,N7000,"^Nexus 7000 - Supervisor, Includes External 8GB Log Flash",EOL9255,http://www.cisco.com/en/US/prod/collateral/switches/ps9441/ps9402/end_of_life_notice_c51-729282.html,8/15/14,N/A,8/31/19
+N7K-SUP2,N7000,"^Nexus 7000 - Supervisor 2, Includes External 8GB USB Flash",EOL13788,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-2355949.html,2/28/22,2/27/25,2/28/27
+N7K-SUP2E,N7000,"^Nexus 7000 - Supervisor 2 Enhanced,Includes 8GB USB Flash",EOL13788,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/eos-eol-notice-c51-2355949.html,2/28/22,2/27/25,2/28/27
+N9K-C93180YC-FX,N9300,"Nexus 9300 with 48p 1/10/25G, 6p 40/100G, MACsec",N/A,N/A,N/A,N/A,N/A
+N9K-C93240YC-FX2,N9300,Nexus 9300 with 48p 10/25G SFP+ and 12p 100G QSFP28,N/A,N/A,N/A,N/A,N/A
+N9K-C93360YC-FX2,N9300,"Nexus 9300 w/ 96p 1/10/25G, 12p 100G, MACsec capable",N/A,N/A,N/A,N/A,N/A
+NC55-MPA-4H-S,NCS5500,NCS 5500 4X100G QSFP28 MPA,N/A,N/A,N/A,N/A,N/A
+NC5K-PAC-650W-FR,NCS5000,Cisco NCS 5000 Series Power AC 650W Front to Back Airflow,N/A,N/A,N/A,N/A,N/A
+NCS-5002,NCS5000,Cisco NCS 5002 Series Router,EOL14855,https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5000-series/ncs-5002-eol.html,3/10/23,3/9/26,3/31/28
+NCS-55A2-MOD-S,NCS5500,NCS55A2 - Fixed 24X10G + 16X25G & MPA Chassis,N/A,N/A,N/A,N/A,N/A
+NIM-16A,WANLAN,16 Channel Async serial interface for ISR4000 series router,N/A,N/A,N/A,N/A,N/A
+NIM-1GE-CU-SFP,WANLAN,"1-port GE WAN NIM, dual-mode RJ45 & SFP",N/A,N/A,N/A,N/A,N/A
+NIM-24A,WANLAN,24 Channel Async serial interface for ISR4000 series router,N/A,N/A,N/A,N/A,N/A
+NIM-2GE-CU-SFP,WANLAN,"2-port GE WAN NIM, dual-mode RJ45 & SFP",N/A,N/A,N/A,N/A,N/A
+NIM-2MFT-T1/E1,ICV,2 port Multiflex Trunk Voice/Clear-channel Data T1/E1 Module,N/A,N/A,N/A,N/A,N/A
+NIM-2T,WANLAN,2-Port Serial WAN Interface card,N/A,N/A,N/A,N/A,N/A
+NIM-ES2-4,WANLAN,4-port Layer 2 GE Switch Network Interface Module,N/A,N/A,N/A,N/A,N/A
+NIM-ES2-8,WANLAN,8-port Layer 2 GE Switch Network Interface Module,N/A,N/A,N/A,N/A,N/A
+NIM-ES2-8-P,WANLAN,8-port POE/POE+ Layer 2 GE Switch Network Interface Module,N/A,N/A,N/A,N/A,N/A
+NIM-SSD,WANLAN,NIM Carrier Card for SSD Drives,N/A,N/A,N/A,N/A,N/A
+NM-16A,WANLAN,^16 port Asynchronous Module,EOL6685,http://www.cisco.com/en/US/prod/collateral/routers/ps5855/eol_c51_521084.html,9/14/09,N/A,9/13/14
+NM-16A=,WANLAN,^16 port Asynchronous Module,EOL6685,http://www.cisco.com/en/US/prod/collateral/routers/ps5855/eol_c51_521084.html,9/14/09,N/A,9/13/14
+NM-16ESW,WANLAN,^1 16 port 10/100 EtherSwitch NM,EOL7259,http://www.cisco.com/en/US/prod/collateral/modules/ps2797/eol_c51-632346.html,11/15/11,11/14/14,11/30/16
+NM-16ESW=,WANLAN,^1 16 port 10/100 EtherSwitch NM,EOL7259,http://www.cisco.com/en/US/prod/collateral/modules/ps2797/eol_c51-632346.html,11/15/11,11/14/14,11/30/16
+NM-1A-OC3MM-EP,WANLAN,^1-Port OC-3 Multimode ATM Enhanced performance NM for 3745,EOL6211,http://www.cisco.com/en/US/products/ps5855/prod_eol_notice0900aecd806f43e4.html,4/30/08,N/A,4/29/13
+NM-1A-OC3-POM,WANLAN,^ATM OC3 module with single POM (SFP) slot,EOL10324,http://www.cisco.com/c/en/us/products/collateral/routers/2800-series-integrated-services-routers-isr/eos-eol-notice-c51-734302.html,10/1/15,9/30/18,9/30/20
+NM-1FE-FX=,WANLAN,"^1-Port Fast Ethernet Network Module, FX Only",EOL2179,http://www.cisco.com/en/US/products/prod_end_of_life.html,1/29/03,N/A,1/28/08
+NM-1FE-FX-V2,WANLAN,"^1-Port Fast Ethernet Network Module, FX Only",EOL7223,http://www.cisco.com/en/US/prod/collateral/modules/ps2797/end_of_life_notice_c51-620228.html,3/2/11,N/A,2/29/16
+NM-1FE-FX-V2=,WANLAN,"^1-Port Fast Ethernet Network Module, FX Only",EOL7223,http://www.cisco.com/en/US/prod/collateral/modules/ps2797/end_of_life_notice_c51-620228.html,3/2/11,N/A,2/29/16
+NM-1GE,WANLAN,^1 Port GE Network Module,EOL6885,http://www.cisco.com/en/US/prod/collateral/modules/ps2797/eol_c51_574752.html,4/1/10,N/A,3/31/15
+NM-1T3/E3=,WANLAN,^One port T3/E3 network module,EOL9443,http://www.cisco.com/c/en/us/products/collateral/routers/3900-series-integrated-services-routers-isr/end-of-life-notice-c51-729830.html,4/11/14,4/10/17,4/30/19
+NM-2FE2W,WANLAN,^2 10/100 Ethernet 2 WAN Card Slot Network Module,2169,http://www.cisco.com/en/US/products/hw/routers/ps274/prod_eol_notice09186a00801e6ef5.html,12/31/03,N/A,12/31/08
+NM-2FE2W=,WANLAN,^2 10/100 Ethernet 2 WAN Card Slot Network Module,LEGACY_ESC_MCEMOD_2,http://www.cisco.com/en/US/products/hw/tsd_products_support_end-of-sale_and_end-of-life_products_list.html,2/11/04,N/A,2/11/09
+NM-2FE2W-V2,WANLAN,^2 port 10/100 Ethernet with 2 WAN Card Slot Network Module,EOL7257,http://www.cisco.com/en/US/prod/collateral/routers/ps5855/eol_c51_635817.html,5/18/11,N/A,5/31/16
+NM-2V=,ICV,^Two-Slot Voice/fax Network Module-Spare,2769,http://www.cisco.com/en/US/products/hw/routers/ps259/prod_eol_notice0900aecd80234f41.html,8/15/05,N/A,8/31/10
+NM-32A,WANLAN,^32 port Asynchronous Module,EOL7319,http://www.cisco.com/en/US/prod/collateral/routers/ps5855/eol_c51-643238.html,7/11/11,N/A,7/31/16
+NM-32A=,WANLAN,^32 port Asynchronous Module,EOL7319,http://www.cisco.com/en/US/prod/collateral/routers/ps5855/eol_c51-643238.html,7/11/11,N/A,7/31/16
+NM-4T,WANLAN,^4-Port Serial Network Module,EOL7469,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51-655336.html,12/2/11,N/A,11/30/16
+NM-4T=,WANLAN,^4-Port Sync Serial Network Module,EOL7469,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51-655336.html,12/2/11,N/A,11/30/16
+NME-16ES-1G-P,WANLAN,"^EtherSwitch Service Mod 16 10/100T POE + 1 GE,IP Base",EOL7469,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51-655336.html,12/2/11,N/A,11/30/16
+NM-HD-2V,ICV,^Two-slot IP Communications Voice/Fax Network Module,EOL9387,http://www.cisco.com/en/US/prod/collateral/modules/ps2797/end_of_life_notice_c51-729376.html,6/30/14,6/30/17,6/30/19
+NM-HDV,ICV,^High Density Voice/Fax Network Module (Single VIC Slot),EOL1046,http://www.cisco.com/en/US/products/hw/modules/ps2797/prod_eol_notice0900aecd80444846.html,9/25/06,N/A,9/30/11
+NPE-G1,7200,7200 Network Processing Engine with 3 GE/FE/E ports,EOL7772,http://www.cisco.com/en/US/prod/collateral/routers/ps341/end_of_life_c51-682450.html,2/27/12,N/A,2/28/17
+NPE-G2,7200,7200 series NPE-G2 engine with 3 GE/FE/E ports,EOL7682,http://www.cisco.com/en/US/prod/collateral/routers/ps341/end_of_life_c51-681414.html,9/29/12,N/A,9/30/17
+ONS-SC+-10G-LR,ONS,SFP+ LR - Commercial Temp,N/A,N/A,N/A,N/A,N/A
+ONS-SE-G2F-LX,ONS,SFP - GE/1G-FC/2G-FC/HDTV - 1310nm - SM - LC,N/A,N/A,N/A,N/A,N/A
+ONS-SE-ZE-EL,ONS,SFP - 10/100/1000 Ethernet BaseT Multi-rate  Copper RJ45,N/A,N/A,N/A,N/A,N/A
+PA-2FE-FX,7000CMN,^2-Port Fast Ethernet 100Base FX Port Adapter,EOL7684,http://www.cisco.com/en/US/prod/collateral/modules/ps2033/end_of_life_c51-676743.html,9/29/12,N/A,9/30/17
+PA-2FE-TX,7000CMN,^2-Port Fast Ethernet 100Base TX Port Adapter,EOL9021,http://www.cisco.com/en/US/prod/collateral/modules/ps2033/eol_C51-723710.html,7/10/13,7/9/16,7/31/18
+PA-4T,7000CMN,^4-Port Serial Port Adapter,630,http://www.cisco.com/en/US/products/hw/modules/ps2033/prod_eol_notice0900aecd80294ae4.html,7/25/97,N/A,7/25/03
+PA-A3-OC3MM,7000CMN,^1-Port ATM Enhanced OC3c/STM1 Multimode Port Adapter,EOL4009,http://www.cisco.com/en/US/products/hw/modules/ps2033/prod_eol_notice0900aecd80224b94.html,12/31/06,N/A,12/29/11
+PA-GE=,7000CMN,^Gigabit Ethernet Port Adapter,EOL7684,http://www.cisco.com/en/US/prod/collateral/modules/ps2033/end_of_life_c51-676743.html,9/29/12,N/A,9/30/17
+PA-POS-1OC3,7000CMN,^1 Port Packet/SONET OC3c/STM1 Port Adapter,EOL7684,http://www.cisco.com/en/US/prod/collateral/modules/ps2033/end_of_life_c51-676743.html,9/29/12,N/A,9/30/17
+PA-T3+,7000CMN,1 Port T3 Serial Port Adapter Enhanced,EOL7684,http://www.cisco.com/en/US/prod/collateral/modules/ps2033/end_of_life_c51-676743.html,9/29/12,N/A,9/30/17
+PA-T3+=,7000CMN,^1 Port T3 Serial Port Adapter Enhanced,EOL7684,http://www.cisco.com/en/US/prod/collateral/modules/ps2033/end_of_life_c51-676743.html,9/29/12,N/A,9/30/17
+PPWR-DCARD-16ESW,WANLAN,^1 Power daughtercard for 16 port Etherswitch NM,EOL6478,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51_483350.html,12/29/08,N/A,12/31/13
+PVDM-12=,ICV,^12-Channel Packet Voice/Fax DSP Module,EOL1046,http://www.cisco.com/en/US/products/hw/modules/ps2797/prod_eol_notice0900aecd80444846.html,9/25/06,N/A,9/30/11
+PVDM2-16,ICV,^16-Channel Packet Voice/Fax DSP Module,EOL10216,http://www.cisco.com/c/en/us/products/collateral/routers/2800-series-integrated-services-routers-isr/eos-eol-notice-c51-733885.html,8/7/15,8/6/18,8/31/20
+PVDM2-48,ICV,^48-Channel Packet Voice/Fax DSP Module,EOL10216,http://www.cisco.com/c/en/us/products/collateral/routers/2800-series-integrated-services-routers-isr/eos-eol-notice-c51-733885.html,8/7/15,8/6/18,8/31/20
+PVDM2-64,ICV,^64-Channel Packet Voice/Fax DSP Module,EOL9412,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/end_of_life_notice_c51-729629.html,6/30/14,N/A,6/30/19
+PVDM3-16,ICV,^16-channel high-density voice DSP module,EOL11178,http://www.cisco.com/c/en/us/products/collateral/routers/2900-series-integrated-services-routers-isr/eos-eol-notice-c51-737888.html,12/9/17,12/8/20,12/31/22
+PVDM3-64,ICV,64-channel high-density voice DSP module,N/A,N/A,N/A,N/A,N/A
+PVDM4-64,ICV,64-channel DSP module,N/A,N/A,N/A,N/A,N/A
+PWR-CC1-150WAC,CAT8200,Cisco C8200 1RU AC 150W PoE Power supply,N/A,N/A,N/A,N/A,N/A
+PWR-POE-4450,4400ISR,Single Power Over Ethernet Module for Cisco ISR4450,N/A,N/A,N/A,N/A,N/A
+QSFP-100G-AOC15M,QSFP100,"100GBASE QSFP Active Optical Cable, 15m",N/A,N/A,N/A,N/A,N/A
+QSFP-100G-AOC1M,QSFP100,"100GBASE QSFP Active Optical Cable, 1m",N/A,N/A,N/A,N/A,N/A
+QSFP-100G-AOC2M,QSFP100,"100GBASE QSFP Active Optical Cable, 2m",N/A,N/A,N/A,N/A,N/A
+QSFP-100G-AOC5M,QSFP100,"100GBASE QSFP Active Optical Cable, 5m",N/A,N/A,N/A,N/A,N/A
+QSFP-100G-CU1M,QSFP100,"100GBASE-CR4 Passive Copper Cable, 1m",N/A,N/A,N/A,N/A,N/A
+QSFP-100G-CU2M,QSFP100,"100GBASE-CR4 Passive Copper Cable, 2m",N/A,N/A,N/A,N/A,N/A
+QSFP-100G-LR4-S,QSFP100,"100GBASE LR4 QSFP Transceiver, LC, 10km over SMF",N/A,N/A,N/A,N/A,N/A
+QSFP-100G-SM-SR,QSFP100,"100GBASE CWDM4 Lite QSFP Transceiver, 2km over SMF, 10-60C",N/A,N/A,N/A,N/A,N/A
+QSFP-100G-SR4-S,QSFP100,"100GBASE SR4 QSFP Transceiver, MPO, 100m over OM4 MMF",N/A,N/A,N/A,N/A,N/A
+QSFP-40/100-SRBD,QSFP100,"100G and 40GBASE SR-BiDi QSFP Transceiver, LC, 100m OM4 MMF",N/A,N/A,N/A,N/A,N/A
+QSFP-40G-SR-BD,QSFP40G,QSFP40G BiDi Short-reach Transceiver,N/A,N/A,N/A,N/A,N/A
+RSP720,C6000,^Cisco 7600 / Catalyst 6500 RSP720 Fabric MSFC3 PFC3BXL,EOL11452,,6/21/11,6/21/11,6/30/11
+RSP720-3C-10GE,C6000,"^Cisco 7600 Route Switch Processor 720Gbps fabric, PFC3C, 10G",EOL10361,http://www.cisco.com/c/en/us/products/collateral/routers/7600-series-routers/eos-eol-notice-c51-735517.html,7/24/16,N/A,7/31/21
+SFP-10G-AOC3M,SFP10G,"10GBASE Active Optical SFP+ Cable, 3M",N/A,N/A,N/A,N/A,N/A
+SFP-10G-AOC5M,SFP10G,"10GBASE Active Optical SFP+ Cable, 5M",N/A,N/A,N/A,N/A,N/A
+SFP-10G-ER,SFP10G,10GBASE-ER SFP Module,N/A,N/A,N/A,N/A,N/A
+SFP-10G-LR,SFP10G,10GBASE-LR SFP Module,N/A,N/A,N/A,N/A,N/A
+SFP-10G-LRM,SFP10G,10GBASE-LRM SFP Module,N/A,N/A,N/A,N/A,N/A
+SFP-10G-LR-S,SFP10G,"10GBASE-LR SFP Module, Enterprise-Class",N/A,N/A,N/A,N/A,N/A
+SFP-10G-SR,SFP10G,10GBASE-SR SFP Module,N/A,N/A,N/A,N/A,N/A
+SFP-10G-SR-S,SFP10G,"10GBASE-SR SFP Module, Enterprise-Class",N/A,N/A,N/A,N/A,N/A
+SFP-10G-ZR,SFP10G,Cisco 10GBASE-ZR SFP10G Module for SMF,N/A,N/A,N/A,N/A,N/A
+SFP-25G-AOC2M,SFP25G,"25GBASE Active Optical SFP28 Cable, 2M",N/A,N/A,N/A,N/A,N/A
+SFP-25G-SR-S,SFP25G,25GBASE-SR SFP Module,N/A,N/A,N/A,N/A,N/A
+SFP-GE-L,SFPGE,^1000BASE-LX/LH SFP (DOM),EOL7727,http://www.cisco.com/en/US/prod/collateral/modules/ps5455/eol_c51-698060.html,3/8/13,N/A,3/31/18
+SFP-GE-S,SFPGE,^1000BASE-SX SFP (DOM),EOL7727,http://www.cisco.com/en/US/prod/collateral/modules/ps5455/eol_c51-698060.html,3/8/13,N/A,3/31/18
+SFP-GE-T,SFPGE,^1000BASE-T SFP (NEBS 3 ESD),EOL10987,http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-737325.html,6/1/17,N/A,5/31/22
+SFP-GE-Z,SFPGE,^1000BASE-ZX Gigabit Ethernet SFP (DOM),EOL9201,http://www.cisco.com/en/US/prod/collateral/modules/ps5455/eol_C51-727832.html,10/17/13,N/A,10/31/18
+SFP-H10GB-CU1M,SFP10G,10GBASE-CU SFP+ Cable 1 Meter,N/A,N/A,N/A,N/A,N/A
+SFP-H10GB-CU3M,SFP10G,10GBASE-CU SFP+ Cable 3 Meter,N/A,N/A,N/A,N/A,N/A
+SFP-H10GB-CU5M,SFP10G,10GBASE-CU SFP+ Cable 5 Meter,N/A,N/A,N/A,N/A,N/A
+SFP-OC12-IR1,SFPOCX,"OC-12/ STM-4 SFP, Intermediate Reach (15km)",N/A,N/A,N/A,N/A,N/A
+SFP-OC12-MM,SFPOCX,"OC-12/ STM-4 SFP, Multi-mode Fiber",N/A,N/A,N/A,N/A,N/A
+SFP-OC3-IR1,SFPOCX,"OC3/STM1 SFP, Single-mode fiber, Intermediate Reach",N/A,N/A,N/A,N/A,N/A
+SFP-OC3-LR1,SFPOCX,"OC3/STM1 SFP, Single-mode fiber, Long Reach (40km)",N/A,N/A,N/A,N/A,N/A
+SFP-OC48-IR1,SFPOCX,OC-48c/STM-16c,N/A,N/A,N/A,N/A,N/A
+SFP-OC48-SR,SFPOCX,"OC-48c/STM-16c  SFP, Short Reach",N/A,N/A,N/A,N/A,N/A
+SMA-M170-K9,ESA,^SMA M170 Security Management Appliance with Software,EOL10894,http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html,11/8/16,11/8/19,11/30/21
+SMA-M190-K9,ESA,^^SMA M190 Security Management Appliance with Software,EOL12972,https://www.cisco.com/c/en/us/products/collateral/security/email-security-appliance/eos-eol-notice-c51-742450.html,6/12/19,6/30/24,6/30/24
+SMA-M380-K9,ESA,^^SMA M380 Security Management Appliance with Software,EOL10894,http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html,11/8/16,11/8/19,11/30/21
+SMA-M390-K9,ESA,^^SMA M390 Security Management Appliance with Software,EOL12972,https://www.cisco.com/c/en/us/products/collateral/security/email-security-appliance/eos-eol-notice-c51-742450.html,6/12/19,6/30/24,6/30/24
+SMA-M680-K9,ESA,^^SMA M680 Security Management Appliance with Software,EOL10894,http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html,11/8/16,11/8/19,11/30/21
+SMA-M690-K9,ESA,^^SMA M690 Security Management Appliance with Software,EOL12972,https://www.cisco.com/c/en/us/products/collateral/security/email-security-appliance/eos-eol-notice-c51-742450.html,6/12/19,6/30/24,6/30/24
+SM-ES2-16-P,WANLAN,"^^Enhanced EtherSwitch, L2, SM, 15 FE, 1 GE, POE",EOL13428,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-743737.html,10/29/20,10/29/23,10/31/25
+SM-ES2-24,WANLAN,"^^Enhanced EtherSwitch, L2, SM, 23 FE, 1 GE",EOL13428,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-743737.html,10/29/20,10/29/23,10/31/25
+SM-ES2-24-P,WANLAN,"^^Enhanced EtherSwitch, L2, SM, 23 FE, 1 GE, POE",EOL13428,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-743737.html,10/29/20,10/29/23,10/31/25
+SM-ES3G-16-P,WANLAN,"^^Enhcd EtherSwitch, L2/L3, SM, 16GE, POE",EOL13428,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-743737.html,10/29/20,10/29/23,10/31/25
+SM-NM-ADPTR,WANLAN,"^Network Module Adapter for SM Slot on Cisco 2900, 3900 ISR",EOL12630,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-741231.html,2/22/19,2/21/22,2/29/24
+SM-SRE-700-K9,APP,^Services Module with Services Ready Engine (SRE),EOL8391,http://www.cisco.com/en/US/prod/collateral/modules/ps10598/eol_c51-709051.html,11/26/12,N/A,11/30/17
+SM-SRE-710-K9,APP,"SRE 710 (4GB MEM,500GB 7K HDD,1C CPU) for router bundle",EOL10587,http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/services-ready-engine-sre-modules/eos-eol-notice-c51-735778.html,3/10/16,3/10/19,3/31/21
+SM-SRE-900-K9,APP,^Services Module with Services Ready Engine (SRE),EOL8391,http://www.cisco.com/en/US/prod/collateral/modules/ps10598/eol_c51-709051.html,11/26/12,N/A,11/30/17
+SM-X-1T3/E3,WANLAN,One port T3/E3 Service Module,N/A,N/A,N/A,N/A,N/A
+SM-X-6X1G,WANLAN,SM-X module with 6-port dual-mode GE / SFP,N/A,N/A,N/A,N/A,N/A
+SM-X-ES3-16-P,WANLAN,"SM-X EtherSwitch, L2/L3, SM, 16 GE, POE+",EOL13685,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-744615.html,12/15/20,12/15/23,12/31/25
+SM-X-ES3-24-P,WANLAN,"SM-X EtherSwitch, L2/L3, SM, 24 GE, POE+",EOL13685,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/network-modules/eos-eol-notice-c51-744615.html,12/15/20,12/15/21,12/31/25
+SPA-10X1GE-V2,SPA,Cisco 10-Port Gigabit Ethernet Shared Port Adapter,EOL14742,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1000-rp2-spa-misc-cable-skus-eol.html,8/15/22,11/2/25,11/30/27
+SPA-1X10GE-L-V2,SPA,Cisco 1-Port  10GE LAN-PHY Shared Port Adapter,N/A,N/A,N/A,N/A,N/A
+SPA-1X10GE-WL-V2,SPA,Cisco 1-port 10GE LAN/WAN-PHY Shared Port Adapter,EOL14742,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1000-rp2-spa-misc-cable-skus-eol.html,8/15/22,11/2/25,11/30/27
+SPA-1XCHOC12/DS0,SPA,^1-port Channelized OC12 to DS0 SPA,EOL10479,http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/shared-port-adapters-spa-interface-processors/eos-eol-notice-c51-735567.html,1/29/16,N/A,1/31/21
+SPA-1XCHSTM1/OC3,SPA,^1-port Channelized STM-1/OC-3c to DS0 Shared Port Adapter,EOL9725,http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/shared-port-adapters-spa-interface-processors/eos-eol-notice-c51-731944.html,11/26/14,11/25/17,11/30/19
+SPA-1XOC12-ATM,SPA,^1-port OC-12c/STM-4 ATM Shared Port Adapter,EOL7292,http://www.cisco.com/en/US/prod/collateral/modules/ps6267/eol_c51_639575.html,12/20/11,12/19/14,12/31/16
+SPA-1XOC12-ATM-V2,SPA,^1 port OC12 STM Shared Port Adapter,EOL10479,http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/shared-port-adapters-spa-interface-processors/eos-eol-notice-c51-735567.html,1/29/16,N/A,1/31/21
+SPA-1XOC12-POS,SPA,^1-port OC12/STM4 POS Shared Port Adapters,EOL9129,http://www.cisco.com/en/US/prod/collateral/modules/ps6267/end_of_life_notice_c51-727171.html,9/6/13,9/5/16,9/30/18
+SPA-1XOC48-ATM,SPA,^Cisco 1-port OC-48c/STM-16 ATM Shared Port Adapter,EOL7674,http://www.cisco.com/en/US/prod/collateral/modules/ps6267/end_of_life_c51-676741.html,7/19/12,7/19/15,7/31/17
+SPA-1XOC48POS/RPR,SPA,1-port OC48/STM16 POS/RPR Shared Port Adapters,EOL14742,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1000-rp2-spa-misc-cable-skus-eol.html,8/15/22,11/2/25,11/30/27
+SPA-2XOC3-POS,SPA,^2-port OC3/STM1 POS Shared Port Adapters,EOL9130,http://www.cisco.com/en/US/prod/collateral/modules/ps6267/end_of_life_notice_c51-727054.html,8/30/13,N/A,8/31/18
+SPA-2XOC48POS/RPR,SPA,2-port OC48/STM16 POS/RPR Shared Port Adapters,EOL14742,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1000-rp2-spa-misc-cable-skus-eol.html,8/15/22,11/2/25,11/30/27
+SPA-2XT3/E3,SPA,^2-port Clear Channel T3/E3 Shared Port Adapter,EOL9725,http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/shared-port-adapters-spa-interface-processors/eos-eol-notice-c51-731944.html,11/26/14,11/25/17,11/30/19
+SPA-2XT3/E3-V2,SPA,"2-port Clear Channel T3/E3 Shared Port Adapter, Version 2",EOL14742,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1000-rp2-spa-misc-cable-skus-eol.html,8/15/22,11/2/25,11/30/27
+SPA-4XOC3-ATM,SPA,^4-port OC-3c/STM-1 ATM Shared Port Adapter,EOL7291,http://www.cisco.com/en/US/prod/collateral/modules/ps6267/eol_c51_639576.html,12/20/11,12/19/14,12/31/16
+SPA-4XOC3-POS,SPA,^4-port OC3/STM1 POS Shared Port Adapters,EOL9130,http://www.cisco.com/en/US/prod/collateral/modules/ps6267/end_of_life_notice_c51-727054.html,8/30/13,N/A,8/31/18
+SPA-4XOC3-POS-V2,SPA,4-port OC-3/STM-1 POS Shared Port Adapters,EOL14624,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1001-x-1002-x-eol.html,8/1/22,7/31/25,7/31/27
+SPA-4XOC48POS/RPR,SPA,4-port OC48/STM16 POS/RPR Shared Port Adapters,EOL14742,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1000-rp2-spa-misc-cable-skus-eol.html,8/15/22,11/2/25,11/30/27
+SPA-4XT3/E3,SPA,^4-port Clear Channel T3/E3 Shared Port Adapter,EOL9725,http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/shared-port-adapters-spa-interface-processors/eos-eol-notice-c51-731944.html,11/26/14,11/25/17,11/30/19
+SPA-4XT-SERIAL,SPA,Cisco 4 port serial SPA,EOL14742,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1000-rp2-spa-misc-cable-skus-eol.html,8/15/22,11/2/25,11/30/27
+SPA-5X1GE-V2,SPA,Cisco 5-Port Gigabit Ethernet Shared Port Adapter,EOL14891,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/shared-port-adapters-spa-interface-processors/shared-port-adapters-spa-5x1ge-v2-eol.html,11/4/22,11/30/27,11/30/27
+SPA-8X1GE-V2,SPA,Cisco 8-Port Gigabit Ethernet Shared Port Adapter,EOL14742,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1000-rp2-spa-misc-cable-skus-eol.html,8/15/22,11/2/25,11/30/27
+SPA-8XCHT1/E1,SPA,^8-port Channelized T1/E1 to DS0 Shared Port Adapter,EOL9508,http://www.cisco.com/en/US/prod/collateral/modules/ps6267/eos-eol-notice-c51-730318.html,5/19/14,5/18/17,5/31/19
+SPA-8XCHT1/E1-V2,SPA,8-port Channelized T1/E1 to DS0 Shared Port Adapter,EOL14742,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1000-rp2-spa-misc-cable-skus-eol.html,8/15/22,11/2/25,11/30/27
+SPA-8XOC12-POS,SPA,8-port OC12/STM4 POS Shared Port Adapters,EOL14742,https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/asr1000-rp2-spa-misc-cable-skus-eol.html,8/15/22,11/2/25,11/30/27
+SPA-IPSEC-2G,SEC,^Cisco 7600 / Catalyst 6500 IPSec VPN SPA - DES/3DES/AES,EOL7054,http://www.cisco.com/en/US/prod/collateral/modules/ps6267/end_of_life_c51-583910.html,2/8/11,2/7/14,2/29/16
+SSM-4GE,ASAMID,^ASA 5500 4-Port Gigabit Ethernet SSM (RJ-45+SFP),EOL9156,http://www.cisco.com/en/US/prod/collateral/vpndevc/ps6032/ps6094/ps6120/eol_C51-727284.html,9/16/13,N/A,9/30/18
+SSM-4GE-INC,ASAMID,^SSM-4GE embedded within ASA 5550 systems,EOL10522,http://www.cisco.com/en/US/products/ps6120/prod_eol_notices_list.html,9/16/13,N/A,9/30/18
+UCS-E140S-M1/K9,APP,"^UCS-E,SingleWide,4Cor CPU,2x8G SD,1x8GB UDIMM,1-2 HDD",EOL10588,http://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-e-series-servers/eos-eol-notice-c51-735780.html,3/10/16,N/A,3/31/21
+UCS-E140S-M2/K9,APP,"^^UCS-E,SingleWide,4Cor CPU,2x8GB SD,1x8GB UDIMM,1-2 HDD",EOL13241,https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-e-series-servers/eos-eol-notice-c51-743125.html,2/7/20,2/6/23,2/28/25
+UCS-E160S-M3/K9,APP,"UCS-E, SingleWide, 6 Core CPU, 8 GB Flash, 1-2 HDD",N/A,N/A,N/A,N/A,N/A
+VIC2-2FXS,ICV,^Two-port Voice Interface Card - FXS,EOL6634,http://www.cisco.com/en/US/prod/collateral/modules/ps3129/eol_c51_514041.html,6/23/09,N/A,6/22/14
+VIC-2FXS=,ICV,^Two-port Voice Interface Card - FXS-Spare,2769,http://www.cisco.com/en/US/products/hw/routers/ps259/prod_eol_notice0900aecd80234f41.html,8/15/05,N/A,8/31/10
+VIC3-2E/M,ICV,^Two-port Voice Interface Card - E and M,EOL11178,http://www.cisco.com/c/en/us/products/collateral/routers/2900-series-integrated-services-routers-isr/eos-eol-notice-c51-737888.html,12/9/17,12/8/20,12/31/22
+VIC3-2FXS/DID,ICV,^Two-Port Voice Interface Card- FXS and DID,EOL11178,http://www.cisco.com/c/en/us/products/collateral/routers/2900-series-integrated-services-routers-isr/eos-eol-notice-c51-737888.html,12/9/17,12/8/20,12/31/22
+VIC3-2FXS-E/DID,ICV,^Two-Port Voice Interface Card - FXS and DID (OPX Lite FXS),EOL11178,http://www.cisco.com/c/en/us/products/collateral/routers/2900-series-integrated-services-routers-isr/eos-eol-notice-c51-737888.html,12/9/17,12/8/20,12/31/22
+VS-F6K-MSFC3,C6000,^Catalyst 6500 Multilayer Switch Feature Card (MSFC) III,EOL9892,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-733297.html,7/31/15,N/A,7/31/20
+VS-F6K-MSFC5,C6000,^Cat 6k 80G Sys Daughter Card MSFC5 for Sup2T,EOL13583,,9/17/20,9/17/20,9/30/20
+VS-F6K-PFC3C,C6000,^Catalyst 6500 Sup 720-10G Policy Feature Card 3C,EOL9892,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-733297.html,7/31/15,N/A,7/31/20
+VS-F6K-PFC4,C6000,^Cat 6k 80G Sys Daughter Board Sup2T PFC4,EOL13211,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html,10/30/20,10/31/25,10/31/25
+VS-S2T-10G,C6000,^Cat 6500 Sup 2T with 2 x 10GbE and 3 x 1GbE with MSFC5 PFC4,EOL13211,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html,10/30/20,10/31/25,10/31/25
+VS-S720-10G,C6000,^Catalyst 6500 Supervisor 720 with 2 10GbE ports,EOL12516,,7/31/15,10/30/18,7/31/20
+VS-SUP2T-10G,C6000,^Catalyst 6500 Supervisor Engine 2T Baseboard,EOL13211,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html,10/30/20,10/31/25,10/31/25
+VWIC2-2MFT-T1/E1,ICV,^2-Port 2nd Gen Multiflex Trunk Voice/WAN  Int. Card - T1/E1,EOL10216,http://www.cisco.com/c/en/us/products/collateral/routers/2800-series-integrated-services-routers-isr/eos-eol-notice-c51-733885.html,8/7/15,8/6/18,8/31/20
+VWIC-2MFT-T1,ICV,^2-Port RJ-48 Multiflex Trunk - T1,EOL6159,http://www.cisco.com/en/US/products/hw/modules/ps3129/prod_eol_notice0900aecd806c3dc6.html,9/17/08,N/A,9/30/13
+VWIC3-2MFT-T1/E1,ICV,2-Port 3rd Gen Multiflex Trunk Voice/WAN Int. Card - T1/E1,N/A,N/A,N/A,N/A,N/A
+WIC-1AM-V2,WANLAN,^one-port Analog Modem Interface card,EOL11178,http://www.cisco.com/c/en/us/products/collateral/routers/2900-series-integrated-services-routers-isr/eos-eol-notice-c51-737888.html,12/9/17,12/8/20,12/31/22
+WIC-1DSU-T1-V2,WANLAN,^Updated 1-Port T1/Fractional T1 DSU/CSU WAN Interface Card,EOL6640,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51_513300.html,12/28/09,N/A,12/31/14
+WIC-1T=,WANLAN,^1-Port Serial WAN Interface Card,EOL6640,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51_513300.html,12/28/09,N/A,12/31/14
+WIC-2A/S,WANLAN,^2-Port Async/Sync Serial WAN Interface Card,EOL6640,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51_513300.html,12/28/09,N/A,12/31/14
+WIC-2A/S=,WANLAN,^2-Port Async/Sync Serial WAN Interface Card spare,EOL6640,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51_513300.html,12/28/09,N/A,12/31/14
+WIC-2T,WANLAN,^2-Port Serial WAN Interface Card,EOL6640,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51_513300.html,12/28/09,N/A,12/31/14
+WIC-2T=,WANLAN,^2-Port Serial WAN Interface Card spare,EOL6640,http://www.cisco.com/en/US/prod/collateral/routers/ps5854/eol_c51_513300.html,12/28/09,N/A,12/31/14
+WSA,SERVICE,SA Prod CiscoSvc,N/A,N/A,N/A,N/A,N/A
+WSA-S170-K9,WSA,^WSA S170 Web Security Appliance with Software,EOL10894,http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html,11/8/16,11/8/19,11/30/21
+WSA-S190-K9,WSA,^^WSA S190 Web Security Appliance,EOL12972,https://www.cisco.com/c/en/us/products/collateral/security/email-security-appliance/eos-eol-notice-c51-742450.html,6/12/19,6/30/24,6/30/24
+WSA-S380-K9,WSA,^^WSA S380 Web Security Appliance,EOL10894,http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html,11/8/16,11/8/19,11/30/21
+WSA-S390-K9,WSA,^^WSA S390 WebSecurity Appliance,EOL12972,https://www.cisco.com/c/en/us/products/collateral/security/email-security-appliance/eos-eol-notice-c51-742450.html,6/12/19,6/30/24,6/30/24
+WSA-S680-K9,WSA,^^WSA S680 Web Security Appliance with Software,EOL10894,http://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/eos-eol-notice-c51-737103.html,11/8/16,11/8/19,11/30/21
+WSA-S690-K9,WSA,^^WSA S690 Web Security Appliance,EOL12972,https://www.cisco.com/c/en/us/products/collateral/security/email-security-appliance/eos-eol-notice-c51-742450.html,6/12/19,6/30/24,6/30/24
+WS-C2960+24PC-L,C2960P,Catalyst 2960 Plus 24 10/100 PoE + 2 T/SFP   LAN Base,EOL13612,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-plus-series-switches/eos-eol-notice-c51-744423.html,10/31/21,10/31/26,10/31/26
+WS-C2960+48TC-L,C2960P,Catalyst 2960 Plus 48 10/100 + 2 T/SFP LAN Base,EOL13612,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-plus-series-switches/eos-eol-notice-c51-744423.html,10/31/21,10/31/26,10/31/26
+WS-C2960-24PC-L,C2960,^^^Catalyst 2960 24 10/100 PoE + 2 T/SFP   LAN Base Image,EOL9449,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps6406/eos-eol-notice-c51-730121.html,10/31/14,10/30/17,10/31/19
+WS-C2960-24TC-L,C2960,WS-C2960-24TC-L,EOL9449,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps6406/eos-eol-notice-c51-730121.html,10/31/14,10/31/15,10/31/19
+WS-C2960C-8TC-L,C2960C,"^^^Catalyst 2960C Switch 8 FE, 2 x Dual Uplink, Lan Base",EOL13189,https://www.cisco.com/c/en/us/products/switches/catalyst-2960-c-series-switches/eos-eol-notice-c51-743071.html,10/30/20,10/30/23,10/31/25
+WS-C2960CX-8TC,C2960CX,^Cisco Catalyst 2960-CX 8 Port Data,EOL13731,,12/17/20,12/17/20,12/31/20
+WS-C2960CX-8TC-L,C2960CX,Cisco Catalyst 2960-CX 8 Port Data Lan Base,N/A,N/A,N/A,N/A,N/A
+WS-C2960G-24TC-L,C2960,"^Catalyst 2960 24 10/100/1000, 4 T/SFP LAN Base Image",EOL7654,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps6406/end_of_life_c51-674040.html,7/31/12,N/A,7/31/17
+WS-C2960G-48TC-L,C2960,"^Catalyst 2960 48 10/100/1000,  4 T/SFP  LAN Base Image",EOL7654,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps6406/end_of_life_c51-674040.html,7/31/12,N/A,7/31/17
+WS-C2960S-48TD-L,C2960S,"^^^Catalyst 2960S 48 GigE, 2 x 10G SFP+ LAN Base",EOL10043,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-series-switches/eos-eol-notice-c51-733348.html,11/6/15,11/5/18,11/30/20
+WS-C2960S-48TS-L,C2960S,"^^^Catalyst 2960S 48 GigE, 4 x SFP LAN Base",EOL10043,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-series-switches/eos-eol-notice-c51-733348.html,11/6/15,11/5/18,11/30/20
+WS-C2960X-24TD-L,C2960X,"Catalyst 2960-X 24 GigE, 2 x 10G SFP+, LAN Base",EOL13603,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-x-series-switches/eos-eol-notice-c51-744432.html,10/31/22,10/31/27,10/31/27
+WS-C2960X-24TS-L,C2960X,"Catalyst 2960-X 24 GigE, 4 x 1G SFP, LAN Base",EOL13603,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-x-series-switches/eos-eol-notice-c51-744432.html,10/31/22,10/31/27,10/31/27
+WS-C2960X-48TD-L,C2960X,"Catalyst 2960-X 48 GigE, 2 x 10G SFP+, LAN Base",EOL13603,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-x-series-switches/eos-eol-notice-c51-744432.html,10/31/22,10/31/27,10/31/27
+WS-C2960XR-24PS-I,C2960XR,"Catalyst 2960-XR 24 GigE PoE 370W, 4 x 1G SFP, IP Lite",EOL13602,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-xr-series-switches/eos-eol-notice-c51-744422.html,10/31/22,10/31/27,10/31/27
+WS-C2960XR-48FPD-I,C2960XR,"Catalyst 2960-XR 48 GigE PoE 740W, 2 x 10G SFP+, IP Lite",EOL13602,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-xr-series-switches/eos-eol-notice-c51-744422.html,10/31/22,10/31/27,10/31/27
+WS-C2960XR-48FPS-I,C2960XR,"Catalyst 2960-XR 48 GigE PoE 740W, 4 x 1G SFP, IP Lite",EOL13602,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-xr-series-switches/eos-eol-notice-c51-744422.html,10/31/22,10/31/27,10/31/27
+WS-C2960XR-48TS-L,C2960XR,"48 Ethernet 10/100/1000 ports, 4SFP LAN BASE",EOL13602,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-xr-series-switches/eos-eol-notice-c51-744422.html,10/31/22,10/31/27,10/31/27
+WS-C3550-12G,C3550,^10 GBIC ports + 2-10/100/1000 ports: EMI,2771,http://www.cisco.com/en/US/products/hw/switches/ps646/prod_eol_notice0900aecd8029f777.html,5/2/06,N/A,5/31/11
+WS-C3550-24-EMI,C3550,^24-10/100 + 2 GBIC ports: EMI,2771,http://www.cisco.com/en/US/products/hw/switches/ps646/prod_eol_notice0900aecd8029f777.html,5/2/06,N/A,5/31/11
+WS-C3550-24-FX-SMI,C3550,^24-100FX MMF + 2 GBIC ports: SMI,2771,http://www.cisco.com/en/US/products/hw/switches/ps646/prod_eol_notice0900aecd8029f777.html,5/2/06,N/A,5/31/11
+WS-C3560-48TS-E,C3560,^Catalyst 3560 48 10/100 + 4 SFP IPS Image,EOL6926,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/end_of_life_notice_c51-574778.html,7/5/10,7/4/13,7/31/15
+WS-C3560-8PC-S,C3560,^^^Catalyst 3560 Compact 8 10/100 PoE + 1 T/SFP; IP Base Image,EOL9055,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps6406/eol__C51-726504.html,7/29/13,N/A,7/31/18
+WS-C3560C-12PC-S,C3560C,"^^^Catalyst 3560C Switch 12 FE PoE, 2 x Dual Uplink, IP Base",EOL10691,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-c-series-switches/eos-eol-notice-c51-736180.html,10/30/16,10/30/19,10/31/21
+WS-C3560CG-8PC-S,C3560C,"^^^Catalyst 3560C Switch 8 GE PoE, 2 x Dual Uplink, IP Base",EOL10691,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-c-series-switches/eos-eol-notice-c51-736180.html,10/30/16,10/30/19,10/31/21
+WS-C3560CX-12PC-S,C3560CX,Cisco Catalyst 3560-CX 12 Port PoE IP Base,N/A,N/A,N/A,N/A,N/A
+WS-C3560CX-12TC,C3560CX,^Cisco Catalyst 3560-CX 12 Port Data,EOL13731,,12/17/20,12/17/20,12/31/20
+WS-C3560CX-8PC-S,C3560CX,Cisco Catalyst 3560-CX 8 Port PoE IP Base,N/A,N/A,N/A,N/A,N/A
+WS-C3560G-24TS-S,C3560,^^^Catalyst 3560 24 10/100/1000T + 4 SFP + IPB Image,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3560G-48TS-E,C3560,^^^Catalyst 3560 48 10/100/1000T + 4 SFP + IPS Image,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750-24FS-S,C3750,^Catalyst 3750 24 100BaseFX + 2 SFP Standard Multilayer Image,EOL7875,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/end_of_life_c51-687707.html,9/18/12,N/A,9/30/17
+WS-C3750-24TS-E,C3750,^Catalyst 3750 24 10/100 + 2 SFP + IPS Image,EOL6926,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/end_of_life_notice_c51-574778.html,7/5/10,7/4/13,7/31/15
+WS-C3750-24TS-S,C3750,^Catalyst 3750 24 10/100 + 2 SFP + IPB Image,EOL6926,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/end_of_life_notice_c51-574778.html,7/5/10,7/4/13,7/31/15
+WS-C3750-48PS-E,C3750,^Catalyst 3750 48 10/100 PoE + 4 SFP + IPS Image,EOL6926,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/end_of_life_notice_c51-574778.html,7/5/10,7/4/13,7/31/15
+WS-C3750-48PS-S,C3750,^Catalyst 3750 48 10/100 PoE + 4 SFP + IPB Image,EOL6926,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/end_of_life_notice_c51-574778.html,7/5/10,7/4/13,7/31/15
+WS-C3750-48TS-E,C3750,^Catalyst 3750 48 10/100 + 4 SFP + IPS Image,EOL6926,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/end_of_life_notice_c51-574778.html,7/5/10,7/4/13,7/31/15
+WS-C3750-48TS-S,C3750,^Catalyst 3750 48 10/100 + 4 SFP + IPB Image,EOL6926,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/end_of_life_notice_c51-574778.html,7/5/10,7/4/13,7/31/15
+WS-C3750E-24TD-E,C3750E,"^^^Catalyst 3750E 24 10/100/1000+2*10GE(X2),265W,IPS s/w",EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750E-24TD-S,C3750E,"^^^Catalyst 3750E 24 10/100/1000+2 10GE(X2),265W,IPB s/w",EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750E-48TD-E,C3750E,"^^^Catalyst 3750E 48 10/100/1000+2*10GE(X2),265W,IPS s/w",EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750E-48TD-S,C3750E,"^^^Catalyst 3750E 48 10/100/1000+2*10GE(X2),265W,IPB s/w",EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750G-12S-E,3KAGG,^Catalyst 3750 12 SFP + IPS Image,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750G-12S-S,3KAGG,^Catalyst 3750 12 SFP + IPB Image,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750G-16TD-E,C3750,^Catalyst 3750 16 10/100/1000BT+ 10GbE (req XENPAK) Enh Image,EOL5459,http://www.cisco.com/en/US/products/hw/switches/ps5023/prod_eol_notice0900aecd806228c3.html,10/15/07,N/A,10/31/12
+WS-C3750G-16TD-S,C3750,^Catalyst 3750 16 10/100/1000BT+ 10GbE (req XENPAK) Std Image,EOL5459,http://www.cisco.com/en/US/products/hw/switches/ps5023/prod_eol_notice0900aecd806228c3.html,10/15/07,N/A,10/31/12
+WS-C3750G-24PS-E,C3750,^^^Catalyst 3750 24 10/100/1000T PoE + 4 SFP + IPS Image,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750G-24PS-S,C3750,^^^Catalyst 3750 24 10/100/1000T PoE + 4 SFP + IPB Image,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750G-24T-E,C3750,^^^Catalyst 3750 24 10/100/1000T + IPS Image,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750G-24T-S,C3750,^^^Catalyst 3750 24 10/100/1000T + IPB Image,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750G-24TS-E,C3750,^Catalyst 3750 24 10/100/1000 + 4 SFP + IPS Image; 1.5RU,EOL6501,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol_c51_489759.html,3/16/09,3/15/12,3/31/14
+WS-C3750G-24TS-E1U,C3750,^^^Catalyst 3750 24 10/100/1000 + 4 SFP + IPS Image; 1RU,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750G-24TS-S,C3750,^Catalyst 3750 24 10/100/1000 + 4 SFP + IPB Image; 1.5RU,EOL6501,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol_c51_489759.html,3/16/09,3/15/12,3/31/14
+WS-C3750G-24TS-S1U,C3750,^^^Catalyst 3750 24 10/100/1000 + 4 SFP + IPB Image; 1RU,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750G-48PS-E,C3750,^^^Catalyst 3750 48 10/100/1000T PoE + 4 SFP + IPS Image,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750G-48PS-S,C3750,^^^Catalyst 3750 48 10/100/1000T PoE + 4 SFP + IPB Image,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750G-48TS-E,C3750,^^^Catalyst 3750 48 10/100/1000T + 4 SFP + IPS Image,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750G-48TS-S,C3750,^^^Catalyst 3750 48 10/100/1000T + 4 SFP + IPB Image,EOL8044,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps5023/eol_c51-696372.html,1/30/13,1/30/16,1/31/18
+WS-C3750V2-24FS-S,C3750,^^^Catalyst 3750V2 24 100BASE-FX ports + 2 SFP Standard Image,EOL9452,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-series-switches/eos-eol-notice-c51-730227.html,5/14/16,5/13/19,5/31/21
+WS-C3750V2-24PS-S,C3750,^^^Catalyst 3750V2 24 10/100 PoE + 2 SFP Standard Image,EOL9452,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-series-switches/eos-eol-notice-c51-730227.html,5/14/16,5/13/19,5/31/21
+WS-C3750V2-24TS,C3750,^3750 V2 BPID,EOL13876,,4/29/21,4/29/21,4/30/21
+WS-C3750V2-24TS-S,C3750,^^^Catalyst 3750V2 24 10/100 + 2 SFP Standard Image,EOL9452,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-series-switches/eos-eol-notice-c51-730227.html,5/14/16,5/13/19,5/31/21
+WS-C3750V2-48PS-S,C3750,^^^Catalyst 3750V2 48 10/100 PoE + 4 SFP Standard Image,EOL9452,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-series-switches/eos-eol-notice-c51-730227.html,5/14/16,5/13/19,5/31/21
+WS-C3750V2-48TS-E,C3750,^^^Catalyst 3750V2 48 10/100 + 4 SFP Enhanced Image,EOL9452,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-series-switches/eos-eol-notice-c51-730227.html,5/14/16,5/13/19,5/31/21
+WS-C3750V2-48TS-S,C3750,^^^Catalyst 3750V2 48 10/100 + 4 SFP Standard Image,EOL9452,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-series-switches/eos-eol-notice-c51-730227.html,5/14/16,5/13/19,5/31/21
+WS-C3750X-12S-E,3KAGG,^^Catalyst 3750X 12 Port GE SFP IP Services,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+WS-C3750X-12S-S,3KAGG,^^Catalyst 3750X 12 Port GE SFP IP Base,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+WS-C3750X-24P,C3750X,^3750X 24 Port PoE Base PID,EOL13876,,4/29/21,4/29/21,4/30/21
+WS-C3750X-24P-E,C3750X,^^^^Catalyst 3750X 24 Port PoE IP Services,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+WS-C3750X-24P-S,C3750X,^^^^Catalyst 3750X 24 Port PoE IP Base,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+WS-C3750X-24S-E,3KAGG,^^Catalyst 3750X 24 Port GE SFP IP Services,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+WS-C3750X-24S-S,3KAGG,^^Catalyst 3750X 24 Port GE SFP IP Base,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+WS-C3750X-24T-L,C3750X,^^^^Catalyst 3750X 24 Port Data LAN Base,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+WS-C3750X-24T-S,C3750X,^^^^Catalyst 3750X 24 Port Data IP Base,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+WS-C3750X-48P,C3750X,^3750X 48 Port PoE Base PID,EOL13876,,4/29/21,4/29/21,4/30/21
+WS-C3750X-48P-E,C3750X,^^^^Catalyst 3750X 48 Port PoE IP Services,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+WS-C3750X-48P-L,C3750X,^^^^Catalyst 3750X 48 Port PoE LAN Base,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+WS-C3750X-48P-S,C3750X,^^^^Catalyst 3750X 48 Port PoE IP Base,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+WS-C3750X-48T-S,C3750X,^^^^Catalyst 3750X 48 Port Data IP Base,EOL10623,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/eos-eol-notice-c51-736139.html,10/30/16,10/30/19,10/31/21
+WS-C3850-12S,3KAGG,Cisco Catalyst 3850 12 Port 1G Fiber Switch,N/A,N/A,N/A,N/A,N/A
+WS-C3850-12S-E,3KAGG,Cisco Catalyst 3850 12 Port GE SFP IP Services,EOL13873,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-2438804.html,4/30/22,4/30/27,4/30/27
+WS-C3850-12S-S,3KAGG,Cisco Catalyst 3850 12 Port GE SFP IP Base,EOL13873,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-2438804.html,4/30/22,4/30/27,4/30/27
+WS-C3850-12XS,3KAGG,Cisco Catalyst 3850 12 Port  10G Fiber Switch,N/A,N/A,N/A,N/A,N/A
+WS-C3850-12XS-E,3KAGG,Cisco Catalyst 3850 12 Port 10G Fiber Switch IP Services,EOL13873,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-2438804.html,4/30/22,4/30/27,4/30/27
+WS-C3850-12XS-S,3KAGG,Cisco Catalyst 3850 12 Port 10G Fiber Switch IP Base,EOL13873,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-2438804.html,4/30/22,4/30/27,4/30/27
+WS-C3850-24P-E,C3850,^^Cisco Catalyst 3850 24 Port PoE IP Services,EOL13188,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html,10/30/20,10/31/25,10/31/25
+WS-C3850-24P-S,C3850,^^Cisco Catalyst 3850 24 Port PoE IP Base,EOL13188,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html,10/30/20,10/31/25,10/31/25
+WS-C3850-24S,3KAGG,Cisco Catalyst 3850 24 Port 1G Fiber Switch,N/A,N/A,N/A,N/A,N/A
+WS-C3850-24S-E,3KAGG,Cisco Catalyst 3850 24 Port GE SFP IP Services,EOL13873,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-2438804.html,4/30/22,4/30/27,4/30/27
+WS-C3850-24S-S,3KAGG,Cisco Catalyst 3850 24 Port GE SFP IP Base,EOL13873,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-2438804.html,4/30/22,4/30/27,4/30/27
+WS-C3850-24T,C3850,^Cisco Catalyst 3850 24 Port Data,EOL11445,,6/4/14,N/A,6/30/14
+WS-C3850-24T-E,C3850,^^Cisco Catalyst 3850 24 Port Data IP Services,EOL13188,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html,10/30/20,10/31/25,10/31/25
+WS-C3850-24T-S,C3850,^^Cisco Catalyst 3850 24 Port Data IP Base,EOL13188,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html,10/30/20,10/31/25,10/31/25
+WS-C3850-24XS,3KAGG,Cisco Catalyst 3850 24 Port 10G Fiber Switch,N/A,N/A,N/A,N/A,N/A
+WS-C3850-24XS-E,3KAGG,Cisco Catalyst 3850 24 Port 10G Fiber Switch IP Services,EOL13873,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-2438804.html,4/30/22,4/30/27,4/30/27
+WS-C3850-24XS-S,3KAGG,Cisco Catalyst 3850 24 Port 10G Fiber Switch IP Base,EOL13873,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-2438804.html,4/30/22,4/30/27,4/30/27
+WS-C3850-48P-S,C3850,^^Cisco Catalyst 3850 48 Port PoE IP Base,EOL13188,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html,10/30/20,10/31/25,10/31/25
+WS-C3850-48T-E,C3850,^^Cisco Catalyst 3850 48 Port Data IP Services,EOL13188,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html,10/30/20,10/31/25,10/31/25
+WS-C3850-48T-L,C3850,^^Cisco Catalyst 3850 48 Port Data LAN Base,EOL13188,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html,10/30/20,10/31/25,10/31/25
+WS-C3850-48T-S,C3850,^^Cisco Catalyst 3850 48 Port Data IP Base,EOL13188,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-743072.html,10/30/20,10/31/25,10/31/25
+WS-C3850-48XS-E,3KAGG,Cisco Catalyst 3850 48 Port 10G Fiber Switch IP Services,EOL13873,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/eos-eol-notice-c51-2438804.html,4/30/22,4/30/27,4/30/27
+WS-C4503-E,C4500,"^^Cat4500 E-Series 3-Slot Chassis, fan, no ps",EOL13217,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html,10/30/20,10/31/25,10/31/25
+WS-C4506,C4500,"^Catalyst 4500 Chassis (6-Slot),fan, no p/s",EOL6869,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51_574042.html,7/31/10,N/A,7/31/15
+WS-C4506-E,C4500,"^^Cat4500 E-Series 6-Slot Chassis, fan, no ps",EOL13217,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html,10/30/20,10/31/25,10/31/25
+WS-C4507R,C4500,"^Catalyst 4500 Chassis (7-Slot),fan, no p/s, Red Sup Capable",EOL6869,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51_574042.html,7/31/10,N/A,7/31/15
+WS-C4507R+E,C4500,"^^Catalyst4500E 7 slot chassis for 48Gbps/slot, fan, no ps",EOL13217,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html,10/30/20,10/31/25,10/31/25
+WS-C4507R-E,C4500,"^^Cat4500 E-Series 7-Slot Chassis, fan, no ps, Red Sup Capable",EOL8168,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51-706059.html,4/16/13,N/A,4/30/18
+WS-C4510R,C4500,"^Catalyst 4500 Chassis (10-Slot),fan, no p/s,Red Sup Capable",EOL6869,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51_574042.html,7/31/10,N/A,7/31/15
+WS-C4948,C4KTOR,"^Catalyst 4948, optnl sw, 48-Port 10/100/1000+4 SFP, no p/s",EOL8529,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps6021/eol_C51-712223.html,8/1/13,7/31/16,7/31/18
+WS-C6506-E,C6000,"^^Catalyst 6500 Enhanced 6-slot chassis,12RU,no PS,no Fan Tray",EOL13211,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html,10/30/20,10/31/25,10/31/25
+WS-C6509,C6000,"^Cat 6509 Chassis, 9slot, 15RU, No Pow Supply, No Fan Tray",3037,http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd8035ece4.html,11/1/06,N/A,11/30/12
+WS-C6509-E,C6000,"^^Catalyst 6500 Enhanced 9-slot chassis,14RU,no PS,no Fan Tray",EOL13211,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html,10/30/20,10/31/25,10/31/25
+WS-C6509-V-E,C6000,"^^Catalyst 6500 Enhanced 9-slot Chassis (Vertical), No PS, Fan",EOL13211,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html,10/30/20,10/31/25,10/31/25
+WS-C6513,C6000,"Catalyst 6500 13-slot chassis,20RU,no PS,no Fan Tray",EOL8193,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol__C51-699410.html,8/4/12,8/4/15,8/31/17
+WS-C6513-E,C6000,"^^Enh C6513 Chassis, 13slot, 19RU, No Pow Supply, No Fan Tray",EOL13211,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-743096.html,10/30/20,10/31/25,10/31/25
+WS-C6513-E-CL,C6000,^6513-E Clock Module,EOL11452,,6/21/11,6/21/11,6/30/11
+WS-C6K-CL=,C6000,"^Catalyst 6000 Clock Module, Spare",EOL9892,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-733297.html,7/31/15,N/A,7/31/20
+WS-C6K-VTT=,C6000,"^Catalyst 6000 VTT Module, Spare",EOL9892,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-733297.html,7/31/15,N/A,7/31/20
+WS-C6K-VTT-E,C6000,^Catalyst 6500 series VTT Modules,EOL13511,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-744096.html,10/30/20,N/A,10/31/25
+WS-CBS3110X-S-I,OS,"^Cisco Catalyst Switch Module 3110X for IBM BladeCenter, IPB",EOL10149,http://www.cisco.com/c/en/us/products/collateral/switches/blade-switches-hp/eos-eol-notice-c51-733650.html,7/24/15,N/A,7/31/20
+WS-CBS3120X-S,OS,^^^Cisco Catalyst Blade Switch 3120X for HP w/ IP Base,EOL10150,http://www.cisco.com/c/en/us/products/collateral/switches/blade-switches-hp/eos-eol-notice-c51-733651.html,7/24/15,N/A,7/31/20
+WS-CBS3130G-S,OS,"^Cisco Catalyst Blade Switch 3130G for Dell M1000E, IPB",EOL10152,http://www.cisco.com/c/en/us/products/collateral/switches/blade-switches-dell/eos-eol-notice-c51-733652.html,7/24/15,N/A,7/31/20
+WS-CBS3130X-S,OS,"^Cisco Catalyst Blade Switch 3130X for Dell M1000E, IPB",EOL10152,http://www.cisco.com/c/en/us/products/collateral/switches/blade-switches-dell/eos-eol-notice-c51-733652.html,7/24/15,N/A,7/31/20
+WS-F6020A=,C6000,"^Catalyst 6000 L2 Switching Feature Card II, Spare",2595,http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd8017a5d1.html,3/25/05,N/A,3/31/10
+WS-F6700-CFC,C6000,^Catalyst 6500 Central Fwd Card for WS-X67xx modules,EOL10550,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-735926.html,4/30/16,N/A,4/30/21
+WS-F6700-DFC3A,C6000,^Catalyst 6500 Dist Fwd Card for WS-X67xx modules,EOL6317,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol_c51-500212.html,12/18/09,12/17/12,12/31/14
+WS-F6700-DFC3B,C6000,"^Catalyst 6500 Dist Fwd Card, 256K Routes for WS-X67xx",EOL9356,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/end_of_life_notice_c51-729149.html,1/30/14,1/29/17,1/31/19
+WS-F6700-DFC3C,C6000,^Catalyst 6500 Dist Fwd Card for WS-X67xx modules,EOL10550,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-735926.html,4/30/16,N/A,4/30/21
+WS-F6K-48-AF,C6000,^^^Cat 6500 802.3af daughter card 48port FE/GE modules,EOL7770,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol_c51-698807.html,7/31/12,7/31/15,7/31/17
+WS-F6K-DFC3A,C6000,"^Dist Fwd Card-3A for 65xx, 6816 Modules used with SUP720",EOL5755,http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd806d9953.html,3/30/08,N/A,3/31/13
+WS-F6K-DFC4-A,C6000,^Cat 6k 80G Sys Daughter Board  DFC4A for ABA Cards,EOL13511,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-744096.html,10/30/20,N/A,10/31/25
+WS-F6K-DFC4-E,C6000,^Cat 6k 80G Sys Daughter Board  DFC4E,EOL10898,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-737192.html,4/30/17,4/29/20,4/30/22
+WS-F6K-PFC3A,C6000,Catalyst 6500 Policy Feature Card -3A (PFC3A) for Sup720,EOL11452,,6/21/11,6/21/11,6/30/11
+WS-F6K-PFC3B,C6000,^Catalyst 6500 Sup720 Policy Feature Card-3B,EOL9356,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/end_of_life_notice_c51-729149.html,1/30/14,1/29/17,1/31/19
+WS-SUP720,C6000,^Catalyst 6500/Cisco 7600 Supervisor 720 Fabric MSFC3 PFC3A,EOL6317,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol_c51-500212.html,12/18/09,12/17/12,12/31/14
+WS-SUP720-3B,C6000,^Catalyst 6500/Cisco 7600 Supervisor 720 Fabric MSFC3 PFC3B,EOL8147,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol_c51-697975.html,1/30/13,1/30/16,1/31/18
+WS-SUP720-3BXL,C6000,^Catalyst 6500/Cisco 7600 Supervisor 720 Fabric MSFC3 PFC3BXL,EOL8147,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol_c51-697975.html,1/30/13,1/30/16,1/31/18
+WS-SVC-N/AM-2,EMBUN/AM,^Catalyst 6500 Network Analysis Module-2,EOL6522,http://www.cisco.com/en/US/prod/collateral/modules/ps2706/end_of_life_notice_c51-493136.html,7/20/09,N/A,7/31/14
+WS-X4013+,C4500,"^Catalyst 4500 Supervisor II-Plus (IOS), 2GE,Console(RJ-45)",EOL6853,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51_574542.html,7/31/10,N/A,7/31/15
+WS-X4013+10GE,C4500,"^Catalyst 4500 Sup II+10GE, 2x10GE (X2) and 4x1GE (SFP)",EOL6853,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51_574542.html,7/31/10,N/A,7/31/15
+WS-X4124-FX-MT,C4500,"^Catalyst 4500 FE Switching Module, 24- 100FX (MTRJ)",EOL6879,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51_574038.html,7/31/10,N/A,7/31/15
+WS-X4148-FX-MT,C4500,"^Catalyst 4500 FE Switching Module, 48-100FX MMF(MTRJ)",EOL10936,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737185.html,4/30/17,N/A,4/30/22
+WS-X4148-RJ,C4500,"^Catalyst 4500 10/100 Auto Module,  48-Ports (RJ-45)",EOL9420,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eos-eol-notice-c51-730030.html,4/28/14,4/27/17,4/30/19
+WS-X4248-FE-SFP,C4500,^Catalyst 4500 48-Port 100BASE-X (SFPs Optional),EOL10936,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737185.html,4/30/17,N/A,4/30/22
+WS-X4248-RJ45V,C4500,"^Catalyst 4500 PoE 802.3af 10/100, 48-Ports (RJ45)",EOL9424,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eos-eol-notice-c51-730045.html,4/28/14,4/27/17,4/30/19
+WS-X4306-GB,C4500,"^Catalyst 4500 Gigabit Ethernet Module, 6-Ports (GBIC)",EOL8969,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol__C51-726362.html,7/28/13,7/27/16,7/31/18
+WS-X4418-GB,C4500,"^Catalyst 4500 GE Module, Server Switching 18-Ports (GBIC)",EOL7380,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51-658769.html,11/8/11,N/A,11/30/16
+WS-X4424-GB-RJ45,C4500,^Catalyst 4500 24-port 10/100/1000 Module (RJ45),EOL6879,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51_574038.html,7/31/10,N/A,7/31/15
+WS-X4448-GB-RJ45,C4500,Catalyst 4500 48-Port 10/100/1000 Module (RJ45),EOL6252,http://www.cisco.com/en/US/products/hw/switches/ps4324/prod_eol_notice0900aecd80701579.html,5/12/08,N/A,5/31/13
+WS-X4448-GB-SFP,C4500,^Catalyst 4500 48-Port 1000Base-X (SFPs Optional),EOL9425,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eos-eol-notice-c51-730031.html,4/28/14,4/27/17,4/30/19
+WS-X4515,C4500,"^Catalyst 4500 Supervisor IV (2 GE),Console(RJ-45)",EOL6853,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51_574542.html,7/31/10,N/A,7/31/15
+WS-X4516,C4500,"^Catalyst 4500 Supervisor V (2 GE),Console(RJ-45)",EOL6853,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51_574542.html,7/31/10,N/A,7/31/15
+WS-X4516-10GE,C4500,"^Catalyst 4500 Supervisor V-10GE, 2x10GE (X2) and 4x1GE (SFP)",EOL8162,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51-706250.html,10/19/12,10/19/15,10/31/17
+WS-X4548-GB-RJ45,C4500,Catalyst 4500 Enhanced 48-Port 10/100/1000 Base-T (RJ-45),EOL8162,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51-706250.html,10/19/12,10/19/15,10/31/17
+WS-X4548-GB-RJ45V,C4500,"^Catalyst 4500 PoE 802.3af 10/100/1000, 48-Ports (RJ45)",EOL8162,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51-706250.html,10/19/12,10/19/15,10/31/17
+WS-X4590=,C4500,^Catalyst 4507R/4510R Fabric Redundancy Module,EOL6869,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_c51_574042.html,7/31/10,N/A,7/31/15
+WS-X4590-E=,C4500,^^Catalyst 4507R-E/4510R-E Fabric Redundancy Module,EOL8710,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol_C51-715893.html,3/1/13,N/A,2/28/18
+WS-X4590-EX=,C4500,^Catalyst 4507R-E/4510R-E Enhanced Fabric Redundancy Module,EOL13699,,10/30/20,10/30/23,10/31/25
+WS-X45-SUP6-E,C4500,"^Catalyst 4500 E-Series Sup 6-E, 2x10GE(X2) w/ Twin Gig",EOL8975,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps4324/eol__C51-726869.html,3/1/14,2/28/17,2/28/19
+WS-X45-SUP7-E,C4500,"^Catalyst 4500 E-Series Supervisor, 848Gbps",EOL11264,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-738118.html,10/31/17,10/30/20,10/31/22
+WS-X45-SUP8-E,C4500,^Catalyst 4500 E-Series Supervisor 8-E,EOL13217,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html,10/30/20,10/31/25,10/31/25
+WS-X4612-SFP-E,C4500,^Catalyst 4500 E-Series 12-Port GE (SFP),EOL10936,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737185.html,4/30/17,N/A,4/30/22
+WS-X4624-SFP-E,C4500,^Catalyst 4500 E-Series 24-Port GE (SFP),EOL10936,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737185.html,4/30/17,N/A,4/30/22
+WS-X4640-CSFP-E,C4500,^Catalyst 4500 40 SFP/80 C-SFP ports 1000BaseX(SFPs Optional),EOL13217,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html,10/30/20,10/31/25,10/31/25
+WS-X4648-RJ45-E,C4500,^Catalyst 4500 E-Series 48-Port 10/100/1000 (RJ45),EOL10936,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737185.html,4/30/17,N/A,4/30/22
+WS-X4648-RJ45V+E,C4500,^Catalyst 4500 E-Series 48-Port PoE+ Ready 10/100/1000(RJ45),EOL10936,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-737185.html,4/30/17,N/A,4/30/22
+WS-X4712-SFP+E,C4500,^Catalyst 4500 E-Series 12-Port 10GbE (SFP+),EOL13217,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html,10/30/20,10/31/25,10/31/25
+WS-X4724-SFP-E,C4500,^Catalyst 4500 E-Series 24-Port GE (SFP),EOL13217,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html,10/30/20,10/31/25,10/31/25
+WS-X4748-RJ45-E,C4500,^Catalyst 4500 E-Series 48-Port 10/100/1000 Non-Blocking,EOL13217,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html,10/30/20,10/31/25,10/31/25
+WS-X4748-RJ45V+E,C4500,^Catalyst 4500E 48-Port PoE 802.3at 10/100/1000(RJ45),EOL13217,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html,10/30/20,10/31/25,10/31/25
+WS-X4748-SFP-E,C4500,^Catalyst 4500 E-Series 48-Port GE (SFP),EOL13217,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html,10/30/20,10/31/25,10/31/25
+WS-X4748-SFP-E++=,C4500,^Catalyst 4500 E-Series 48-Port GE (SFP),EOL13217,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/eos-eol-notice-c51-743088.html,10/30/20,10/31/25,10/31/25
+WS-X6066-SLB-APC,CSM,^Catalyst 6000 Content Switching Module,EOL6964,http://www.cisco.com/en/US/prod/collateral/modules/ps2706/ps780/end_of_life_c51-577764.html,8/26/10,8/25/13,8/31/15
+WS-X6148-FE-SFP,C6000,^Catalyst 6500 48 port 100Base-X module (require SFP),EOL8535,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol__C51-712778.html,1/31/14,1/31/17,1/31/19
+WS-X6148-GE-TX,C6000,"^Catalyst 6500 48-port 10/100/1000 GE Mod., RJ-45",EOL6613,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol_c51_509455.html,12/15/09,N/A,12/14/14
+WS-X6182-2PA,7600,^FlexWAN Module for Cisco 7600 / Catalyst 6000,2931,http://www.cisco.com/en/US/products/hw/routers/ps368/prod_eol_notice0900aecd802e9c57.html,1/15/06,N/A,1/31/11
+WS-X6324-100FX-MM,C6000,"^EOS:6/1/06 Cat 6500 24-port 100FX, Enh QoS, MT-RJ, MMF",3090,http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd8039f961.html,6/15/06,N/A,6/30/11
+WS-X6408A-GBIC,C6000,"^Catalyst 6000 8-port GE, Enhanced QoS (Req. GBICs)",EOL6528,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol_c51_496000.html,5/18/09,N/A,5/31/14
+WS-X6416-GBIC,C6000,^EOS: 01/15/06(PB 2970) C6500 16-port Gig-Eth Mod.(Req.GBICs),2970,http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd802e87bb.html,1/13/06,N/A,1/31/11
+WS-X6516-GBIC,C6000,EOS:01/15/06(PB 2970)C6500 16-port GigE Mod:Fabric-Enabled,2970,http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd802e87bb.html,1/13/06,N/A,1/31/11
+WS-X6524-100FX-MM,C6000,"Catalyst 6500 24-port 100FX, MT-RJ, fabric-enabled",EOL7770,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol_c51-698807.html,7/31/12,7/31/15,7/31/17
+WS-X6548-GE-45AF,C6000,^^Cat6500 48-port PoE 802.3af & ePoE 10/100/1000 CEF256 card,EOL7770,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol_c51-698807.html,7/31/12,7/31/15,7/31/17
+WS-X6548-GE-TX,C6000,Catalyst 6500 48-port fabric-enabled 10/100/1000 Module,EOL7770,http://www.cisco.com/en/US/prod/collateral/switches/ps5718/ps708/eol_c51-698807.html,7/31/12,7/31/15,7/31/17
+WS-X6704-10GE,C6000,^Cat6500 4-port 10 Gigabit Ethernet Module (req. XENPAKs),EOL9892,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-733297.html,7/31/15,N/A,7/31/20
+WS-X6708-10GE,C6000,^Cat6500 8 port 10 Gigabit Ethernet module (req. DFC and X2),EOL10550,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-735926.html,4/30/16,N/A,4/30/21
+WS-X6716-10GE,C6000,^Catalyst 6500 16 port 10 Gigabit Ethernet Base Module,EOL13583,,9/17/20,9/17/20,9/30/20
+WS-X6724-SFP,C6000,^Catalyst 6500 24-port GigE Mod: fabric-enabled (Req. SFPs),EOL9892,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-733297.html,7/31/15,N/A,7/31/20
+WS-X6748-GE-TX,C6000,"^Cat6500 48-port 10/100/1000 GE Mod: fabric enabled, RJ-45",EOL10550,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-735926.html,4/30/16,N/A,4/30/21
+WS-X6748-SFP,C6000,^Catalyst 6500 48-port GigE Mod: fabric-enabled (Req. SFPs),EOL10550,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-735926.html,4/30/16,N/A,4/30/21
+WS-X6816-10GE,C6000,^6816 10G baseboard,EOL10898,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-737192.html,4/30/17,4/29/20,4/30/22
+WS-X6848-GE-TX,C6000,^48 PORT 1G COPPER BASEBOARD,EOL12516,,7/31/15,10/30/18,10/31/22
+WS-X6848-SFP,C6000,^Catalyst 6500 48 Port 1G SFP Baseboard,EOL13583,,9/17/20,9/17/20,9/30/20
+WS-X6908-10G,C6000,^Catalyst 6500 8 Port 10G Baseboard,EOL10550,http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6500-series-switches/eos-eol-notice-c51-735926.html,4/30/16,N/A,4/30/21
+WS-X6K-SUP1A-2GE,C6000,"^EOS: 03/25/05 (See PB #2595) 6500 SUP1A Eng,2GE,Enhanced QoS",2595,http://www.cisco.com/en/US/products/hw/switches/ps708/prod_eol_notice0900aecd8017a5d1.html,3/25/05,N/A,3/31/10
+X2-10GB-LR,X2,10GBASE-LR X2 Module,EOL13807,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-2358104.html,3/1/22,2/28/25,2/28/27
+X2-10GB-LRM,X2,^10GBASE-LRM X2 Module,EOL10296,http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-734241.html,10/25/15,N/A,10/31/20
+X2-10GB-SR,X2,10GBASE-SR X2 Module,EOL13807,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-2358104.html,3/1/22,2/28/25,2/28/27
+XENPAK-10GB-LR,XENPAK,^10GBASE-LR XENPAK Module,EOL5805,http://www.cisco.com/en/US/products/hw/modules/ps5455/prod_eol_notice0900aecd80665f79.html,12/13/07,N/A,12/31/12
+XENPAK-10GB-LR+,XENPAK,^10GBASE-LR XENPAK Module with DOM support,EOL10232,http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-734289.html,9/30/15,N/A,9/30/20
+XENPAK-10GB-LRM,XENPAK,^10G Base LRM Xenpak,EOL10232,http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-734289.html,9/30/15,N/A,9/30/20
+XENPAK-10GB-SR,XENPAK,^10GBASE-SR XENPAK Module,EOL10232,http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-734289.html,9/30/15,N/A,9/30/20
+XFP10GER-192IR-L,XFP,Low Power multirate XFP supporting 10GBASE-ER and OC-192 IR,N/A,N/A,N/A,N/A,N/A
+XFP10GLR-192SR-L,XFP,Low Power multirate XFP supporting 10GBASE-LR and OC-192 SR,N/A,N/A,N/A,N/A,N/A
+XFP-10GLR-OC192SR,XFP,^Multirate XFP module for 10GBASE-LR and OC192 SR-1,EOL10790,http://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/eos-eol-notice-c51-736656.html,1/31/17,N/A,1/31/22
+XFP-10G-MM-SR,XFP,10GBASE-SR XFP Module,N/A,N/A,N/A,N/A,N/A
+XFP-10GZR-OC192LR,XFP,10GBASE-ZR and OC192 LR2 XFP Module,N/A,N/A,N/A,N/A,N/A
